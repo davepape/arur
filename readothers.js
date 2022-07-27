@@ -84,7 +84,8 @@ function readOppositeScript(otherName)
                 myLines.push(newLineInfo);
                 startingLine = false;
                 }
-            newLineInfo.lines.push(lines[i]);
+            if (lines[i] != "")
+                newLineInfo.lines.push(lines[i]);
             }
         else
             {
