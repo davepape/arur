@@ -5,6 +5,7 @@ package-lock.json
 public/favicon.*
 public/.well-known
 public/.htaccess
+public/sprites
 certificate.txt
 rsakey.txt
 # Logs
