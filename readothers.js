@@ -15,7 +15,7 @@ ws.onmessage = receiveMessage;
 
 const fs = require('fs');
 
-let myName = 'DOMIN';
+let otherName = 'DOMIN';
 
 let fulltext = fs.readFileSync('RUR.txt', 'utf-8');
 let lines = fulltext.split("\n");
@@ -25,7 +25,7 @@ let newLineInfo;
 let lastCue = lines[0];
 for (let i=1; i < lines.length; i++)
     {
-    if (lines[i].startsWith(myName+'.'))
+    if (!(lines[i].startsWith(otherName+'.')))
         {
         if (startingLine)
             {
@@ -47,6 +47,7 @@ let sayingLine = false;
 
 setInterval(sayLine, 1000);
 
+
 function receiveMessage(msg)
     {
     let text = msg.data;
@@ -60,7 +61,6 @@ function receiveMessage(msg)
             }
         }
     }
-
 
 let saidWaiting = false;
 
