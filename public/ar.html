@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+
+function receiveData(msg)
+    {
+    let d = JSON.parse(msg);
+console.log(msg);
+console.log(d);
+    $("#overlay").html(d.text);
+    let state = "false";
+    let label = d.text.substring(0,5);
+    if (label == 'DOMIN')
+        state = "true";
+    else
+        state = "false";
+    let el = document.querySelector('#character1highlight');
+    el.setAttribute("visible", state);
+    }
+
+function requestData()
+    {
+    $.ajax({url: '/getdata'}).done(receiveData);
+    }
+
+function setup()
+    {
+    setInterval(requestData, 1000);
+    }
+
+$(document).ready(setup);
+</script>
+<style>
+#overlay { 
+  position: absolute;
+  background-color: black;
+  color: white;
+  z-index: 9999;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+</style>
+<body style="margin : 0px; overflow: hidden;">
+<div id='overlay' class="button">
+Hello, world
+</div>
+    <a-scene embedded arjs>
+      <a-marker preset="hiro">
+        <a-circle id="character1highlight" color="#ff0" radius=".5" rotation="-90 0 0" visible="false"></a-circle>
+        <a-entity
+          position="0 0 0"
+          scale="0.05 0.05 0.05"
+          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
+        ></a-entity>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>

@@ -1,0 +1,2258 @@
+DIRECTOR. ACT 1
+DOMIN. {ENTER}
+SULLA. {ENTER}
+*ACTORS: DOMIN, SULLA
+DOMIN. (_Dictating_) Ready?
+SULLA. Yes.
+DOMIN. To E. M. McVicker & Co., Southampton, England. “We undertake
+DOMIN. no guarantee for goods damaged in transit. As soon as the consignment
+DOMIN. was taken on board we drew your captain’s attention to the fact that
+DOMIN. the vessel was unsuitable for the transportation of Robots; and we are
+DOMIN. therefore not responsible for spoiled freight. We beg to remain, for
+DOMIN. Rossum’s Universal Robots, yours truly.” (_SULLA types the lines._)
+DOMIN. Ready?
+SULLA. Yes.
+DOMIN. Another letter. To the E. B. Huysen Agency, New York, U.S.A. “We
+DOMIN. beg to acknowledge receipt of order for five thousand Robots. As you
+DOMIN. are sending your own vessel, please dispatch as cargo equal quantities
+DOMIN. of soft and hard coal for R.U.R., the same to be credited as part
+DOMIN. payment (_BUZZER_) of the amount due us.” (_Answering phone_) Hello!
+DOMIN. This is the central office. Yes, certainly. Well, send them a wire.
+DOMIN. Good. (_Rises_) “We beg to remain, for Rossum’s Universal Robots, yours
+DOMIN. very truly.” Ready?
+SULLA. Yes.
+DOMIN. (_Answering small portable phone_) Hello! Yes. No. All right.
+DOMIN. (_Standing back of desk, punching plug machine and buttons_) Another
+DOMIN. letter. Freidrichswerks, Hamburg, Germany. “We beg to acknowledge
+DOMIN. receipt of order for fifteen thousand Robots.”
+MARIUS. {ENTER}
+*ACTORS: DOMIN, SULLA, MARIUS.
+DOMIN. Well, what is it?
+MARIUS. There’s a lady, sir, asking to see you.
+DOMIN. A lady? Who is she?
+MARIUS. I don’t know, sir. She brings this card of introduction.
+DOMIN. (_Reading card_) Ah, from President Glory. Ask her to come in--
+DOMIN. (_To SULLA. Crossing up to her desk, then back to his own_) Where did I
+DOMIN. leave off?
+SULLA. “We beg to acknowledge receipt of order for fifteen thousand
+SULLA. Robots.”
+DOMIN. Fifteen thousand. Fifteen thousand.
+MARIUS. (_At door R._) Please step this way.
+HELENA. {ENTER}
+MARIUS. {EXIT}
+*ACTORS: DOMIN, SULLA, HELENA
+HELENA. (_Crossing to desk_) How do you do?
+DOMIN. How do you do? What can I do for you?
+HELENA. You are Mr. Domin, the General Manager?
+DOMIN. I am.
+HELENA. I have come--
+DOMIN. With President Glory’s card. That is quite sufficient.
+HELENA. President Glory is my father. I am Helena Glory.
+DOMIN. Please sit down. Sulla, you may go.
+SULLA. {EXIT}
+*ACTORS: DOMIN, HELENA
+DOMIN. How can I be of service to you, Miss Glory?
+HELENA. I have come-- (_Sits R. of desk._)
+DOMIN. To have a look at our famous works where people are
+DOMIN. manufactured. Like all visitors. Well, there is no objection.
+HELENA. I thought it was forbidden to--
+DOMIN. To enter the factory? Yes, of course. Everybody comes here with
+DOMIN. someone’s visiting card, Miss Glory.
+HELENA. And you show them--
+DOMIN. Only certain things. The manufacture of artificial people is a
+DOMIN. secret process.
+HELENA. If you only knew how enormously that--
+DOMIN. Interests you. Europe’s talking about nothing else.
+HELENA. (_Indignantly turning front_) Why don’t you let me finish
+HELENA. speaking?
+DOMIN. (_Drier_) I beg your pardon. Did you want to say something
+DOMIN. different?
+HELENA. I only wanted to ask--
+DOMIN. Whether I could make a special exception in your case and show
+DOMIN. you our factory. Why, certainly, Miss Glory.
+HELENA. How do you know I wanted to say that?
+DOMIN. They all do. But we shall consider it a special honor to show
+DOMIN. you more than we do the rest.
+HELENA. Thank you.
+DOMIN. (_Standing_) But you must agree not to divulge the least--
+HELENA. (_Standing and giving him her hand_) My word of honor.
+DOMIN. Thank you. (_Looking at her hand_) Won’t you raise your veil?
+HELENA. Of course. You want to see whether I’m a spy or not--I beg your
+HELENA. pardon.
+DOMIN. (_Leaning forward_) What is it?
+HELENA. Would you mind releasing my hand?
+DOMIN. (_Releasing it_) Oh, I beg _your_ pardon.
+HELENA. (_Raising veil_) How cautious you have to be here, don’t you?
+DOMIN. (_Observing her with deep interest_) Why, yes. Hm--of
+DOMIN. course--We--that is--
+HELENA. But what is it? What’s the matter?
+DOMIN. I’m remarkably pleased. Did you have a pleasant crossing?
+HELENA. Yes.
+DOMIN. No difficulty?
+HELENA. Why?
+DOMIN. What I mean to say is--you’re so _young_.
+HELENA. May we go straight into the factory?
+DOMIN. Yes. Twenty-two, I think.
+HELENA. Twenty-two what?
+DOMIN. Years.
+HELENA. Twenty-one. Why do you want to know?
+DOMIN. Well, because--as-- (_Sits on desk nearer her_) You will make a
+DOMIN. long stay, won’t you?
+HELENA. (_Backing away R._) That depends on how much of the factory you
+HELENA. show me.
+DOMIN. (_Rises; crosses to her_) Oh, hang the factory. Oh, no, no, you
+DOMIN. shall see everything, Miss Glory. Indeed you shall. Won’t you sit down?
+DOMIN. (_Takes her to couch R.C. She sits. Offers her cigarette from case at_)
+DOMIN. (_end of sofa. She refuses._)
+HELENA. Thank you.
+DOMIN. But first would you like to hear the story of the invention?
+HELENA. Yes, indeed.
+DOMIN. (_Crosses to L.C. near desk_) It was in the year 1920 that old
+DOMIN. Rossum, the great physiologist, who was then quite a young scientist,
+DOMIN. took himself to the distant island for the purpose of studying the
+DOMIN. ocean fauna. (_She is amused._) On this occasion he attempted by
+DOMIN. chemical synthesis to imitate the living matter known as protoplasm
+DOMIN. until he suddenly discovered a substance which behaved exactly like
+DOMIN. living matter although its chemical composition was different. That
+DOMIN. was in the year 1932, exactly four hundred and forty years after the
+DOMIN. discovery of America. Whew--
+HELENA. Do you know that by heart?
+DOMIN. (_Takes flowers from desk to her_) Yes. You see, physiology is
+DOMIN. not in my line. Shall I go on?
+HELENA. (_Smelling flowers_) Yes, please.
+DOMIN. (_Center_) And then, Miss Glory, Old Rossum wrote the following
+DOMIN. among his chemical experiments: “Nature has found only one method
+DOMIN. of organizing living matter. There is, however, another method, more
+DOMIN. simple, flexible and rapid which has not yet occurred to Nature at all.
+DOMIN. This second process by which life can be developed was discovered by me
+DOMIN. today.” Now imagine him, Miss Glory, writing those wonderful words over
+DOMIN. some colloidal mess that a dog wouldn’t look at. Imagine him sitting
+DOMIN. over a test tube and thinking how the whole tree of life would grow
+DOMIN. from him, how all animals would proceed from it, beginning with some
+DOMIN. sort of a beetle and ending with a _man_. A man of different substance
+DOMIN. from us. Miss Glory, that was a tremendous moment. (_Gets box of candy_)
+DOMIN. (_from desk and passes it to her._)
+HELENA. Well--
+DOMIN. (_As she speaks his portable PHONE lights up and he answers_)
+DOMIN. Well--Hello!--Yes--no, I’m in conference. Don’t disturb me.
+HELENA. Well?
+DOMIN. (_Smile_) Now, the thing was how to get the life _out_ of the
+DOMIN. test tubes, and hasten development and form organs, bones and nerves,
+DOMIN. and so on, and find such substances as catalytics, enzymes, hormones in
+DOMIN. short--you understand?
+HELENA. Not much, I’m afraid.
+DOMIN. Never mind. (_Leans over couch and fixes cushion for her back_)
+DOMIN. There! You see with the help of his tinctures he could make whatever
+DOMIN. he wanted. He could have produced a Medusa with the brain of Socrates
+DOMIN. or a worm fifty yards long-- (_She laughs. He does also; leans closer_)
+DOMIN. (_on couch, then straightens up again_) --but being without a grain of
+DOMIN. humor, he took into his head to make a vertebrate or perhaps a man.
+DOMIN. This artificial living _matter_ of his had a raging thirst for life. It
+DOMIN. didn’t mind being sown or mixed together. That couldn’t be done with
+DOMIN. natural albumen. And that’s how he set about it.
+HELENA. About what?
+DOMIN. About imitating Nature. First of all he tried making an
+DOMIN. artificial dog. That took him several years and resulted in a sort of
+DOMIN. stunted calf which _died_ in a few days. I’ll show it to you in the
+DOMIN. museum. And _then_ old Rossum started on the manufacture of _man_.
+HELENA. And I’m to divulge this to nobody?
+DOMIN. To nobody in the world.
+HELENA. What a pity that it’s to be discovered in _all_ the school
+HELENA. books of both Europe and America. (_BOTH laugh._)
+DOMIN. Yes. But do you know what _isn’t_ in the school books? That old
+DOMIN. Rossum was mad. Seriously, Miss Glory, you must keep this to yourself.
+DOMIN. The old crank wanted to actually make _people_.
+HELENA. But you do make people.
+DOMIN. _Approximately_--Miss Glory. But old Rossum meant it literally.
+DOMIN. He wanted to become a sort of scientific substitute for _God_. He was a
+DOMIN. fearful materialist, and that’s why he did it all. His sole purpose was
+DOMIN. nothing more or less than to prove that God was no longer necessary.
+DOMIN. (_Crosses to end of couch_) Do you know anything about anatomy?
+HELENA. Very little.
+DOMIN. Neither do I. Well-- (_He laughs_) --he then decided to
+DOMIN. manufacture everything as in the human body. I’ll show you in the
+DOMIN. museum the bungling attempt it took him ten years to produce. It was
+DOMIN. to have been a _man_, but it lived for three days only. Then up came
+DOMIN. _young_ Rossum, an engineer. He was a wonderful fellow, Miss Glory.
+DOMIN. When he saw what a mess of it the old man was making he said: “It’s
+DOMIN. absurd to spend ten years making a man. If you can’t make him quicker
+DOMIN. than Nature, you might as well shut up shop.” Then he set about
+DOMIN. learning anatomy himself.
+HELENA. There’s nothing about _that_ in the school books?
+DOMIN. No. The school books are full of paid advertisements, and
+DOMIN. rubbish at that. What the school books say about the _united efforts_
+DOMIN. of the two great Rossums is all a fairy tale. They used to have
+DOMIN. dreadful rows. The old _atheist_ hadn’t the slightest conception of
+DOMIN. industrial _matters_, and the end of it was that Young Rossum shut him
+DOMIN. up in some laboratory or other and let him fritter the time away with
+DOMIN. his monstrosities while he himself started on the business from an
+DOMIN. _engineer’s_ point of view. Old Rossum _cursed_ him and before he died
+DOMIN. he managed to botch up two physiological horrors. Then one day they
+DOMIN. found him dead in the _laboratory_. And that’s his whole story.
+HELENA. And what about the young man?
+DOMIN. (_Sits beside her on couch_) Well, anyone who has looked into
+DOMIN. human anatomy will have seen at once that man is too complicated, and
+DOMIN. that a good engineer could make him more simply. So young Rossum began
+DOMIN. to _overhaul_ anatomy to see what could be left out or simplified. In
+DOMIN. short--But this isn’t boring you, Miss Glory?
+HELENA. No, indeed. You’re--It’s awfully interesting.
+DOMIN. (_Gets closer_) So young Rossum said to himself: “A man is
+DOMIN. something that feels happy, plays the piano, likes going for a walk,
+DOMIN. and, in fact, wants to do a whole lot of things that are really
+DOMIN. unnecessary.”
+HELENA. Oh.
+DOMIN. That are unnecessary when he wants-- (_Takes her hand_) --let us
+DOMIN. say, to weave or count. Do you play the piano?
+HELENA. Yes.
+DOMIN. That’s good. (_Kisses her hand. She lowers her head._) Oh, I
+DOMIN. beg your pardon! (_Rises_) But a working machine must _not_ play the
+DOMIN. piano, must not feel happy, must not do a whole lot of other things.
+DOMIN. A gasoline motor must not have tassels or ornaments, Miss Glory. And
+DOMIN. to manufacture artificial workers is the same thing as the manufacture
+DOMIN. of a gasoline motor. (_She is not interested._) The process must be
+DOMIN. the simplest, and the product the best from a practical point of view.
+DOMIN. (_Sits beside her again_) What sort of worker do you think is the
+DOMIN. _best_ from a practical point of view?
+HELENA. (_Absently_) What? (_Looks at him._)
+DOMIN. What sort of worker do you think is the best from a practical
+DOMIN. point of view?
+HELENA. (_Pulling herself together_) Oh! Perhaps the one who is most
+HELENA. honest and hard-working.
+DOMIN. No. The one that is the _cheapest_. The one whose requirements
+DOMIN. are the _smallest_. Young Rossum invented a worker with the minimum
+DOMIN. amount of requirements. He had to simplify him. He rejected everything
+DOMIN. that did not contribute directly to the progress of work. Everything
+DOMIN. that makes man more expensive. In fact he _rejected man_ and made the
+DOMIN. _Robot_. My dear Miss Glory, the Robots are not people. Mechanically
+DOMIN. they are more _perfect_ than we are; they have an enormously developed
+DOMIN. intelligence, but they have no soul. (_Leans back._)
+HELENA. How do you know they have no soul?
+DOMIN. Have you ever seen what a Robot looks like inside?
+HELENA. No.
+DOMIN. Very neat, very simple. Really a beautiful piece of work.
+DOMIN. Not much _in_ it, but everything in flawless order. The product of
+DOMIN. an engineer _is_ technically at a higher pitch of perfection than a
+DOMIN. product of Nature.
+HELENA. But man is supposed to be the product of God.
+DOMIN. All the worse. God hasn’t the slightest notion of modern
+DOMIN. engineering. Would you believe that young Rossum then proceeded to play
+DOMIN. at being God?
+HELENA. (_Awed_) How do you mean?
+DOMIN. He began to manufacture Super-Robots. Regular giants they were.
+DOMIN. He tried to make them twelve feet tall. But you wouldn’t believe what
+DOMIN. a failure they were.
+HELENA. A failure?
+DOMIN. Yes. For no reason at all their limbs used to keep snapping off.
+DOMIN. “Evidently our planet is too small for giants.” Now we only make Robots
+DOMIN. of normal size and of very high-class human finish.
+HELENA. (_Hands him flower; he puts it in button-hole_) I saw the first
+HELENA. Robots at home. The Town Council bought them for--I mean engaged them
+HELENA. for work.
+DOMIN. No. _Bought_ them, Miss Glory. Robots are bought and sold.
+HELENA. These were employed as street-sweepers. I saw them sweeping.
+HELENA. They were so strange and quiet.
+DOMIN. (_Rises_) Rossum’s Universal Robot factory doesn’t produce
+DOMIN. a uniform brand of Robots. We have Robots of _finer_ and _coarser_
+DOMIN. grades. The best will live about _twenty_ years. (_Crosses to desk._)
+DOMIN. (_HELENA looks in her pocket mirror. He pushes button on desk._)
+HELENA. Then they die?
+DOMIN. Yes, they get used up.
+MARIUS. {ENTER}
+*ACTORS: DOMIN, HELENA, MARIUS
+DOMIN. Marius, bring in samples of the manual labor Robot.
+MARIUS. {EXIT}
+*ACTORS: DOMIN, HELENA
+DOMIN. I’ll show you specimens of the two extremes. This first
+DOMIN. grade is comparatively inexpensive and is made in vast quantities.
+MARIUS. {ENTER}
+ROBOTS. {ENTER}
+*ACTORS: DOMIN, HELENA, MARIUS, ROBOTS
+DOMIN. There you are, as powerful as a small tractor. Guaranteed
+DOMIN. to have average intelligence. That will do, Marius.
+MARIUS. {EXIT}
+ROBOTS. {EXIT}
+*ACTORS: DOMIN, HELENA
+HELENA. They make me feel so strange.
+DOMIN. (_Crosses to desk. Rings_) Did you see my new typist?
+HELENA. I didn’t notice her.
+SULLA. {ENTER}
+*ACTORS: DOMIN, SULLA, HELENA
+DOMIN. Sulla, let Miss Glory see you.
+HELENA. (_Looks at DOMIN. Rising, crosses a step to C._) So pleased to
+HELENA. meet you. (_Looks at DOMIN_) You must find it terribly dull in this out
+HELENA. of the way spot, don’t you?
+SULLA. I don’t know, Miss Glory.
+HELENA. Where do you come from?
+SULLA. From the factory.
+HELENA. Oh, were you born there?
+SULLA. I was _made_ there.
+HELENA. What? (_Looks first at SULLA, then at DOMIN._)
+DOMIN. (_To SULLA, laughing_) Sulla is a Robot, best grade.
+HELENA. Oh, I beg your pardon.
+DOMIN. (_Crosses to SULLA_) Sulla isn’t angry. See, Miss Glory, the
+DOMIN. kind of skin we make. Feel her face. (_Touches SULLA’S face._)
+HELENA. Oh, no, no.
+DOMIN. (_Examining SULLA’S hand_) You wouldn’t know that she’s made of
+DOMIN. different material from us, would you? Turn ’round, Sulla. (_SULLA does_)
+DOMIN. (_so. Circles twice._)
+HELENA. Oh, stop, stop.
+DOMIN. Talk to Miss Glory, Sulla. (_Examines hair of SULLA._)
+SULLA. Please sit down. (_HELENA sits on couch._) Did you have a
+SULLA. pleasant crossing? (_Fixes her hair._)
+HELENA. Oh, yes, certainly.
+SULLA. Don’t go back on the _Amelia_, Miss Glory, the barometer is
+SULLA. falling steadily. Wait for the _Pennsylvania_. That’s a good powerful
+SULLA. vessel.
+DOMIN. What’s its speed?
+SULLA. Forty knots an hour. Fifty thousand tons. One of the latest
+SULLA. vessels, Miss Glory.
+HELENA. Thank you.
+SULLA. A crew of fifteen hundred, Captain Harpy, eight boilers--
+DOMIN. That’ll do, Sulla. Now show us your knowledge of French.
+HELENA. You know French?
+SULLA. Oui! Madame! I know four languages. I can write: “Dear Sir,
+SULLA. Monsieur, Geehrter Herr, Cteny pane.”
+HELENA. (_Jumping up, crosses to SULLA_) Oh, that’s absurd! Sulla isn’t
+HELENA. a Robot. Sulla is a girl like me. Sulla, this is outrageous--Why do you
+HELENA. take part in such a hoax?
+SULLA. I am a Robot.
+HELENA. No, no, you are not telling the truth. (_She catches the amused_)
+HELENA. (_expression on DOMIN’S face_) I know they have forced you to do it for
+HELENA. an advertisement. Sulla, you are a girl like me, aren’t you? (_Looks at_)
+HELENA. (_him._)
+DOMIN. I’m sorry, Miss Glory. _Sulla is a Robot._
+HELENA. It’s a lie!
+DOMIN. What? (_Pushes button on desk_) Well, then I must _convince_
+DOMIN. you.
+MARIUS. {ENTER}
+*ACTORS: DOMIN, SULLA, HELENA, MARIUS
+DOMIN. Marius, take Sulla into the dissecting room, and tell them to open her up at once.
+HELENA. Where?
+DOMIN. Into the dissecting room. When they’ve _cut her open_, you can
+DOMIN. go and have a look. (_MARIUS makes a start toward SULLA._)
+HELENA. (_Stopping MARIUS_) No! No!
+DOMIN. Excuse me, you spoke of lies.
+HELENA. You wouldn’t have her killed?
+DOMIN. You can’t kill machines. Sulla! (_MARIUS one step forward, one_)
+DOMIN. (_arm out. SULLA makes a move toward R. door._)
+HELENA. (_Moves a step R._) Don’t be afraid, Sulla. I won’t let you go.
+HELENA. Tell me, my dear-- (_Takes her hand_) --are they always so cruel to
+HELENA. you? You mustn’t put up with it, Sulla. You mustn’t.
+SULLA. I am a Robot.
+HELENA. That doesn’t matter. Robots are just as good as we are. Sulla,
+HELENA. you wouldn’t let yourself be cut to pieces?
+SULLA. Yes. (_Hand away._)
+HELENA. Oh, you’re not afraid of death, then?
+SULLA. I cannot tell, Miss Glory.
+HELENA. Do you know what would happen to you in there?
+SULLA. Yes, I should cease to move.
+HELENA. How dreadful! (_Looks at SULLA._)
+DOMIN. Marius, tell Miss Glory what you are? (_Turns to HELENA._)
+MARIUS. (_To HELENA_) Marius, the Robot.
+DOMIN. Would you take Sulla into the dissecting room?
+MARIUS. (_Turns to DOMIN_) Yes.
+DOMIN. Would you be sorry for her?
+MARIUS. (_Pause_) I cannot tell.
+DOMIN. What would happen to her?
+MARIUS. She would cease to move. They would put her into the stamping
+MARIUS. mill.
+DOMIN. That is death, Marius. Aren’t you afraid of death?
+MARIUS. No.
+DOMIN. You see, Miss Glory, the Robots have no interest in life. They
+DOMIN. have no enjoyments. They are _less_ than so much grass.
+HELENA. Oh, stop. Please send them away.
+DOMIN. (_Pushes button_) Marius, Sulla, you may go.
+MARIUS. {EXIT}
+SULLA. {EXIT}
+*ACTORS: DOMIN, HELENA
+HELENA. How terrible! (_To C._) It’s outrageous what you are doing.
+HELENA. (_He takes her hand._)
+DOMIN. Why outrageous? (_His hand over hers. Laughing._)
+HELENA. I don’t know, but it is. Why do you call her “Sulla”?
+DOMIN. Isn’t it a nice name? (_Hand away._)
+HELENA. It’s a man’s name. Sulla was a Roman General.
+DOMIN. What! Oh! (_Laughs_) We thought that Marius and Sulla were
+DOMIN. lovers.
+HELENA. (_Indignantly_) Marius and Sulla were generals and fought
+HELENA. against each other in the year--I’ve forgotten now.
+DOMIN. (_Laughing_) Come here to the window. (_He goes to window C._)
+HELENA. What?
+DOMIN. Come here. (_She goes._) Do you see anything? (_Takes her arm._)
+DOMIN. (_She is on his R._)
+HELENA. Bricklayers.
+DOMIN. Robots. All our work people are Robots. And down there, can you
+DOMIN. see anything?
+HELENA. Some sort of office.
+DOMIN. A counting house. And in it--
+HELENA. A lot of officials.
+DOMIN. Robots! All our officials are Robots. And when you see the
+DOMIN. factory-- (_Noon WHISTLE blows. She is scared; puts arm on DOMIN. He_)
+DOMIN. (_laughs_) If we don’t blow the whistle the Robots won’t stop working. In
+DOMIN. two hours I’ll show you the kneading trough. (_BOTH come down stage._)
+DOMIN. (_HELENA is L.C. and DOMIN is R.C., arm in arm._)
+HELENA. Kneading trough?
+DOMIN. The pestle for beating up the paste. In each one we mix the
+DOMIN. ingredients for a thousand Robots at one operation. Then there are the
+DOMIN. vats for the preparation of liver, brains, and so on. Then you will
+DOMIN. see the bone factory. After that I’ll show you the spinning mill.
+HELENA. Spinning mill?
+DOMIN. Yes. For weaving nerves and veins. Miles and miles of digestive
+DOMIN. tubes pass through it at a time.
+HELENA. (_Watching his gestures_) Mayn’t we talk about something else?
+DOMIN. Perhaps it would be better. There’s only a _handful_ of us among
+DOMIN. a hundred thousand Robots, and _not one woman_. We talk nothing but the
+DOMIN. factory _all_ day, and _every_ day. It’s just as if we were under a
+DOMIN. curse, Miss Glory.
+HELENA. I’m _sorry_ I said that you were lying. (_A KNOCK at door R._)
+DOMIN. Come in. (_He is C._)
+GALL. {ENTER}
+FABRY. {ENTER}
+ALQUIST. {ENTER}
+HALLEMEIER. {ENTER}
+*ACTORS: DOMIN, HELENA, GALL, FABRY, ALQUIST, HALLEMEIER
+GALL. (_Noisily_) I beg your pardon. I hope we don’t intrude.
+DOMIN. No, no. Come in. Miss Glory, here are Gall, Fabry, Alquist,
+DOMIN. Hallemeier. This is President Glory’s daughter. (_ALL move to her and_)
+DOMIN. (_shake her hand._)
+HELENA. How do you do?
+FABRY. We had no idea--
+GALL. Highly honored, I’m sure--
+ALQUIST. Welcome, Miss Glory.
+BUSMAN. {ENTER}
+*ACTORS: DOMIN, HELENA, GALL, FABRY, ALQUIST, HALLEMEIER, BUSMAN
+BUSMAN. (_Rushes in from R._) Hello, what’s up?
+DOMIN. Come in, Busman. This is President Glory’s daughter. This is
+DOMIN. Busman, Miss Glory.
+BUSMAN. By Jove, that’s fine. (_ALL click heels. He crowds in and_)
+BUSMAN. (_shakes her hand_) Miss Glory, may we send a cablegram to the papers
+BUSMAN. about your arrival?
+HELENA. No, no, please don’t.
+DOMIN. Sit down, please, Miss Glory.
+DOMIN. (_On the line, “Sit down, please,” all SIX MEN try to find her a_)
+DOMIN. (_chair at once. HELENA goes for the chair at the extreme L. DOMIN_)
+DOMIN. (_takes the chair at front of desk, places it in the C. of stage._)
+DOMIN. (_HALLEMEIER gets chair at SULLA’S typewriter and places it to R. of_)
+DOMIN. (_chair at C. BUSMAN gets armchair from extreme R., but by now HELENA_)
+DOMIN. (_has sat in DOMIN’S preferred chair, at C. ALL sit except DOMIN._)
+DOMIN. (_BUSMAN at R. in armchair. HALLEMEIER R. of HELENA. FABRY in swivel_)
+DOMIN. (_chair back of desk._)
+BUSMAN. Allow me--
+GALL. Please--
+FABRY. Excuse me--
+ALQUIST. What sort of a crossing did you have?
+GALL. Are you going to stay long? (_MEN conscious of their_)
+GALL. (_appearance. ALQUIST’S trousers turned up at bottom. He turns them down._)
+GALL. (_BUSMAN polishes shoes. OTHERS fix ties, collars, etc._)
+FABRY. What do you think of the factory, Miss Glory?
+HALLEMEIER. Did you come over on the _Amelia_?
+DOMIN. Be quiet and let _Miss Glory_ speak. (_MEN sit erect. DOMIN_)
+DOMIN. (_stands at HELENA’S L._)
+HELENA. (_To DOMIN_) What am I to speak to them about? (_MEN look at_)
+HELENA. (_one another._)
+DOMIN. Anything you like.
+HELENA. (_Looks at DOMIN_) May I speak quite frankly?
+DOMIN. Why, of course.
+HELENA. (_To OTHERS. Wavering, then in desperate resolution_) Tell me,
+HELENA. doesn’t it ever distress you the way you are treated?
+FABRY. By whom, may I ask?
+HELENA. Why, everybody.
+ALQUIST. Treated?
+GALL. What makes you think--
+HELENA. Don’t you feel that you might be living a better life? (_Pause._)
+HELENA. (_ALL confused._)
+GALL. (_Smiling_) Well, that depends on what you mean, Miss Glory.
+HELENA. I mean that it’s perfectly outrageous. It’s terrible.
+HELENA. (_Standing up_) The whole of Europe is talking about the way you’re
+HELENA. being treated. That’s why I came here, to see for myself, and it’s a
+HELENA. thousand times worse than could have been imagined. How _can_ you put
+HELENA. _up_ with it?
+ALQUIST. Put up with what?
+HELENA. Good heavens, you are living creatures, just like us, like the
+HELENA. whole of Europe, like the whole world. It’s disgraceful that you must
+HELENA. live like this.
+BUSMAN. Good gracious, Miss Glory!
+FABRY. Well, she’s not far wrong. We live here just like red Indians.
+HELENA. Worse than red Indians. May I--oh, may I call you--_brothers_?
+HELENA. (_MEN look at each other._)
+BUSMAN. Why not?
+HELENA. (_Looking at DOMIN_) Brothers, I have not come here as the
+HELENA. President’s daughter. I have come on behalf of the Humanity League.
+HELENA. Brothers, the Humanity League now has over two hundred thousand
+HELENA. members. Two hundred thousand people are on your side, and offer you
+HELENA. their help. (_Tapping back of chair._)
+BUSMAN. Two hundred thousand people, Miss Glory; that’s a tidy lot. Not
+BUSMAN. bad.
+FABRY. I’m always telling you there’s nothing like good old Europe. You
+FABRY. see they’ve not forgotten us. They’re offering us help.
+GALL. What kind of help? A theatre, for instance?
+HALLEMEIER. An orchestra?
+HELENA. More than that.
+ALQUIST. Just you?
+HELENA. (_Glaring at DOMIN_) Oh, never mind about me. I’ll stay as long
+HELENA. as it is necessary. (_ALL express delight._)
+BUSMAN. By Jove, that’s good.
+ALQUIST. (_Rising L._) Domin, I’m going to get the best room ready for
+ALQUIST. Miss Glory.
+DOMIN. Just a minute. I’m afraid that Miss Glory is of the opinion she
+DOMIN. has been talking to Robots.
+HELENA. Of course. (_MEN laugh._)
+DOMIN. I’m sorry. These gentlemen are human beings just like us.
+HELENA. You’re not Robots?
+BUSMAN. Not Robots.
+HALLEMEIER. Robots indeed!
+GALL. No, thanks.
+FABRY. Upon my honor, Miss Glory, we aren’t Robots.
+HELENA. Then why did you tell me that all your officials are Robots?
+DOMIN. Yes, the officials, but not the _managers_. Allow me, Miss
+DOMIN. Glory--this is Consul Busman, General Business Manager; this is Doctor
+DOMIN. Fabry, General Technical Manager; Doctor Hallemeier, head of the
+DOMIN. Institute for the Psychological Training of Robots; Doctor Gall, head
+DOMIN. of the Psychological and Experimental Department; and Alquist, head
+DOMIN. of the Building Department, R. U. R. (_As they are introduced they_)
+DOMIN. (_rise and come C. to kiss her hand, except GALL and ALQUIST, whom DOMIN_)
+DOMIN. (_pushes away. General babble._)
+ALQUIST. Just a builder. Please sit down.
+HELENA. Excuse me, gentlemen. Have I done something dreadful?
+ALQUIST. Not at all, Miss Glory.
+BUSMAN. (_Handing flowers_) Allow me, Miss Glory.
+HELENA. Thank you.
+FABRY. (_Handing candy_) Please, Miss Glory.
+DOMIN. Will you have a cigarette, Miss Glory?
+HELENA. No, thank you.
+DOMIN. Do you mind if I do?
+HELENA. Certainly not.
+BUSMAN. Well, now, Miss Glory, it is certainly nice to have you with us.
+HELENA. (_Seriously_) But you know I’ve come to disturb your Robots for
+HELENA. you. (_BUSMAN pulls chair closer._)
+DOMIN. (_Mocking her serious tone_) My dear Miss Glory-- (_Chuckle_)
+DOMIN. --we’ve had close upon a hundred saviors and prophets here. Every ship
+DOMIN. brings us some. Missionaries, Anarchists, Salvation Army, all sorts!
+DOMIN. It’s astonishing what a number of churches and idiots there are in the
+DOMIN. world.
+HELENA. And yet you let them speak to the Robots.
+DOMIN. So far we’ve let them all. Why not? The Robot remembers
+DOMIN. everything but that’s all. They don’t even laugh at what the people
+DOMIN. say. Really it’s quite incredible.
+HELENA. I’m a stupid girl. Send me back by the first ship.
+GALL. Not for anything in the world, Miss Glory. Why should we send
+GALL. you back?
+DOMIN. If it would amuse you, Miss Glory, I’ll take you down to the
+DOMIN. Robot warehouse. It holds about three hundred thousand of them.
+BUSMAN. Three hundred and forty-seven thousand.
+DOMIN. Good, and you can say whatever you like to them. You can read
+DOMIN. the Bible, recite the multiplication table, whatever you please. You
+DOMIN. can even preach to them about human rights.
+HELENA. Oh, I think that if you were to show them a little love.
+FABRY. Impossible, Miss Glory! _Nothing is harder to like than a Robot._
+HELENA. What do you make them for, then?
+BUSMAN. Ha, ha, ha! That’s good. What are Robots made for?
+FABRY. For _work_, Miss Glory. One Robot can replace two and a half
+FABRY. _workmen_. The human machine, Miss Glory, was terribly _imperfect_. It
+FABRY. had to be removed sooner or later.
+BUSMAN. It was too expensive.
+FABRY. It was not _effective_. It no longer answers the requirements of
+FABRY. _modern engineering_. Nature has no idea of keeping pace with _modern
+FABRY. labor_. For example, from a technical point of view, the whole of
+FABRY. _childhood_ is a sheer absurdity. So much time lost. And then again--
+HELENA. (_Turns to DOMIN_) Oh, no, no!
+FABRY. Pardon me. What is the real _aim_ of your League--the--the
+FABRY. Humanity League?
+HELENA. Its real purpose is to--to protect the Robots--and--and to
+HELENA. insure good treatment for them.
+FABRY. Not a bad object, either. A machine has to be treated properly.
+FABRY. (_Leans back_) _I don’t like damaged articles._ Please, Miss Glory,
+FABRY. enroll us all _members_ of your league. (_“Yes, yes!” from all MEN._)
+HELENA. No, you don’t understand me. What we really want is
+HELENA. to--to--_liberate_ the Robots. (_Looks at all OTHERS._)
+HALLEMEIER. How do you propose to do that?
+HELENA. They are to be--to be dealt with like human beings.
+HALLEMEIER. Aha! I suppose they’re to vote. To drink beer. To order us
+HALLEMEIER. about?
+HELENA. Why shouldn’t they drink beer?
+HALLEMEIER. Perhaps they’re even to receive wages? (_Looking at other_)
+HALLEMEIER. (_MEN, amused._)
+HELENA. Of course they are.
+HALLEMEIER. Fancy that! Now! And what would they do with their wages,
+HALLEMEIER. pray?
+HELENA. They would buy--what they want--what pleases them.
+HALLEMEIER. That would be very nice, Miss Glory, only there’s nothing
+HALLEMEIER. that does please the Robots. Good heavens, what are they to buy? You
+HALLEMEIER. can feed them on pineapples, straw, whatever you like. It’s all the
+HALLEMEIER. _same_ to them. They’ve no appetite at all. They’ve no interest in
+HALLEMEIER. anything. Why, hang it all, nobody’s ever yet seen a Robot smile.
+HELENA. Why--why don’t you make them--happier?
+HALLEMEIER. That wouldn’t do, Miss Glory. They are only workmen.
+HELENA. Oh, but they’re so intelligent.
+HALLEMEIER. Confoundedly so, but they’re nothing else. They’ve no will
+HALLEMEIER. of their own. No soul. No passion.
+HELENA. No love?
+HALLEMEIER. Love? Huh! Rather not. Robots don’t love. Not even
+HALLEMEIER. themselves.
+HELENA. No defiance?
+HALLEMEIER. Defiance? I don’t know. Only _rarely_, from time to time.
+HELENA. What happens then?
+HALLEMEIER. Nothing particular. Occasionally they seem to go off their
+HALLEMEIER. _heads_. Something like epilepsy, you know. It’s called “Robot’s
+HALLEMEIER. Cramp.” They’ll suddenly sling down everything they’re holding,
+HALLEMEIER. stand still, gnash their teeth--and then they have to go into the
+HALLEMEIER. stamping-mill. It’s evidently some breakdown in the mechanism.
+DOMIN. (_Sitting on desk_) A flaw in the works that has to be removed.
+HELENA. No, no, that’s the soul.
+FABRY. (_Humorously_) Do you think that the soul first shows itself by
+FABRY. a gnashing of teeth? (_MEN chuckle._)
+HELENA. Perhaps it’s just a sign that there’s a struggle within.
+HELENA. Perhaps it’s a sort of revolt. Oh, if you could infuse them with it.
+DOMIN. That’ll be remedied, Miss Glory. Doctor Gall is just making some
+DOMIN. experiments.
+GALL. Not with regard to that, Domin. At present I am making _pain_
+GALL. nerves.
+HELENA. Pain nerves?
+GALL. Yes, the Robots feel practically no bodily pain. You see,
+GALL. young Rossum provided them with too limited a _nervous_ system. We
+GALL. _must_ introduce _suffering_.
+HELENA. Why do you want to cause them pain?
+GALL. For industrial reasons, Miss Glory. Sometimes a Robot does
+GALL. damage to himself because it doesn’t hurt him. He puts his hand
+GALL. into the machine-- (_Describes with gesture_) --breaks his finger--
+GALL. (_Describes with gesture_) --smashes his head. It’s all the same to
+GALL. him. We must provide them with _pain_. That’s an automatic _protection_
+GALL. against damage.
+HELENA. Will they be happier when they feel pain?
+GALL. On the contrary; but they will be more perfect from a
+GALL. technical point of view.
+HELENA. Why don’t you create a soul for them?
+GALL. That’s not in our power.
+FABRY. That’s not in our interest.
+BUSMAN. That would increase the cost of production. Hang it all, my
+BUSMAN. dear young lady, we turn them out at such a cheap rate--a hundred and
+BUSMAN. fifty dollars each, fully dressed, and fifteen years ago they cost ten
+BUSMAN. thousand. Five years ago we used to buy the _clothes_ for them. Today
+BUSMAN. we have our own weaving mill, and now we even _export_ cloth five times
+BUSMAN. cheaper than other factories. What do you pay a yard for cloth, Miss
+BUSMAN. Glory?
+HELENA. (_Looking at DOMIN_) I don’t really know. I’ve forgotten.
+BUSMAN. Good gracious, and you want to found a Humanity League. (_MEN_)
+BUSMAN. (_chuckle._) It only costs a third now, Miss Glory. All prices are today
+BUSMAN. a third of what they were and they’ll fall still lower, lower, like
+BUSMAN. that.
+HELENA. I don’t understand.
+BUSMAN. Why, bless you, Miss Glory, it means that the cost of _labor_
+BUSMAN. has fallen. A Robot, food and all, costs three-quarters of a cent
+BUSMAN. per hour. (_Leans forward_) That’s mighty important, you know. All
+BUSMAN. factories will go pop like chestnuts if they don’t at once buy Robots
+BUSMAN. to lower the cost of production.
+HELENA. And get rid of all their workmen?
+BUSMAN. Of course. But in the meantime we’ve dumped five hundred
+BUSMAN. thousand _tropical_ Robots down on the Argentine pampas to grow corn.
+BUSMAN. Would you mind telling me how much you pay a pound for bread?
+HELENA. I’ve no idea. (_ALL smile._)
+BUSMAN. Well, I’ll tell you. It now costs two cents in good old
+BUSMAN. Europe. A pound of bread for two cents, and the _Humanity League_--
+BUSMAN. (_Designates HELENA_) --knows nothing about it. (_To MEN_) Miss
+BUSMAN. Glory, you don’t realize that even _that’s_ too expensive. (_All MEN_)
+BUSMAN. (_chuckle._) Why, in five years’ time I’ll wager--
+HELENA. What?
+BUSMAN. That the cost of everything will be a tenth of what it
+BUSMAN. is today. Why, in five years we’ll be up to our ears in corn
+BUSMAN. and--everything else.
+ALQUIST. Yes, and all the workers throughout the world will be
+ALQUIST. unemployed.
+DOMIN. (_Seriously. Rises_) Yes, Alquist, they will. Yes, Miss Glory,
+DOMIN. they will. But in ten years Rossum’s Universal Robots will produce so
+DOMIN. much _corn_, so much _cloth_, so much everything that things will be
+DOMIN. practically without price. There will be no poverty. All work will
+DOMIN. be done by living machines. Everybody will be free from worry and
+DOMIN. liberated from the degradation of labor. Everybody will live only to
+DOMIN. _perfect_ himself.
+HELENA. Will he?
+DOMIN. Of course. It’s bound to happen. Then the servitude of man to
+DOMIN. man and the enslavement of man to matter will cease. Nobody will get
+DOMIN. bread at the cost of life and hatred. The Robots will wash the feet of
+DOMIN. the beggar and prepare a bed for him in his house.
+ALQUIST. Domin, Domin, what you say sounds too much like Paradise.
+ALQUIST. There was something _good_ in _service_ and something _great_ in
+ALQUIST. humility. There was some kind of virtue in _toil_ and _weariness_.
+DOMIN. Perhaps, but we cannot reckon with what is lost when we start
+DOMIN. out to transform the world. Man shall be _free_ and supreme; he shall
+DOMIN. have no other aim, no other labor, no other care than to perfect
+DOMIN. himself. He shall serve neither matter nor man. He will not be a
+DOMIN. machine and a device for production. He will be _Lord_ of creation.
+BUSMAN. Amen.
+FABRY. So be it.
+HELENA. (_Rises_) You have bewildered me. I should like to believe this.
+GALL. You are younger than we are, Miss Glory. You will live to see
+GALL. it.
+HALLEMEIER. True. (_Looking around_) Don’t you think Miss Glory might
+HALLEMEIER. lunch with us? (_All MEN rise._)
+GALL. Of course. Domin, ask her on behalf of us all.
+DOMIN. Miss Glory, will you do us the honor?
+HELENA. When you know why I’ve come?
+FABRY. For the League of Humanity, Miss Glory.
+HELENA. Oh, in that case perhaps--
+FABRY. That’s fine. (_Pause_) Miss Glory, excuse me for five minutes.
+FABRY. {EXIT}
+*ACTORS: DOMIN, HELENA, GALL, ALQUIST, HALLEMEIER, BUSMAN
+HALLEMEIER. Thank you.
+HALLEMEIER. {EXIT}
+GALL. {EXIT}
+*ACTORS: DOMIN, HELENA, ALQUIST, BUSMAN
+BUSMAN. (_Whispering_) I’ll be back soon.
+BUSMAN. {EXIT}
+*ACTORS: DOMIN, HELENA, ALQUIST
+ALQUIST. (_Starts, stops, then to HELENA, then to door_) I’ll be back
+ALQUIST. in exactly five minutes.
+ALQUIST. {EXIT}
+*ACTORS: DOMIN, HELENA
+HELENA. What have they all gone for?
+DOMIN. To cook, Miss Glory. (_On her L._)
+HELENA. To cook what?
+DOMIN. Lunch. (_They laugh; takes her hand_) The Robots do our cooking
+DOMIN. for us and as they’ve no taste it’s not altogether-- (_She laughs._)
+DOMIN. Hallemeier is awfully _good_ at grills and Gall can make any kind of
+DOMIN. sauce, and Busman knows all about omelets.
+HELENA. What a feast! And what’s the specialty of Mr.--your builder?
+DOMIN. Alquist? Nothing. He only lays the table. And Fabry will get
+DOMIN. together a little fruit. Our cuisine is very modest, Miss Glory.
+HELENA. (_Thoughtfully_) I wanted to ask you something--
+DOMIN. And I wanted to ask you something too--they’ll be back in five
+DOMIN. minutes. (_Looks at door R._)
+HELENA. What did you want to ask me? (_Sits C._)
+DOMIN. Excuse me, you asked first. (_Sits L. of her._)
+HELENA. Perhaps it’s silly of me, but why do you manufacture female
+HELENA. Robots when--when--
+DOMIN. When sex means nothing to them?
+HELENA. Yes.
+DOMIN. There’s a certain demand for them, you see. Servants,
+DOMIN. saleswomen, stenographers. People are _used_ to it.
+HELENA. But--but tell me, are the Robots male and female,
+HELENA. mutually--completely without--
+DOMIN. Completely indifferent to each other, Miss Glory. There’s no
+DOMIN. sign of any _affection_ between them.
+HELENA. Oh, that’s terrible.
+DOMIN. Why?
+HELENA. It’s so unnatural. One doesn’t know whether to be disgusted or
+HELENA. to hate them, or perhaps--
+DOMIN. To pity them. (_Smiles._)
+HELENA. That’s more like it. What did you want to ask _me_?
+DOMIN. I should like to ask you, Miss Helena, if you will marry me.
+HELENA. What? (_Rises._)
+DOMIN. Will you be my wife? (_Rises._)
+HELENA. No. The idea!
+DOMIN. (_To her, looking at his watch_) Another three minutes. If you
+DOMIN. don’t marry me you’ll have to marry one of the other five.
+HELENA. But why should I?
+DOMIN. Because they’re _all_ going to ask you in turn.
+HELENA. (_Crossing him to L.C._) How could they dare do such a thing?
+DOMIN. I’m very sorry, Miss Glory. It seems they’ve fallen in love with
+DOMIN. you.
+HELENA. Please don’t let them. I’ll--I’ll go away at once. (_Starts R._)
+HELENA. (_He stops her, his arms up._)
+DOMIN. Helena-- (_She backs away to desk. He follows_) You wouldn’t be
+DOMIN. so cruel as to refuse us.
+HELENA. But, but--I can’t marry all six.
+DOMIN. No, but one anyhow. If you don’t want _me_, marry Fabry.
+HELENA. I won’t.
+DOMIN. Ah! Doctor Gall?
+HELENA. I don’t want any of you.
+DOMIN. Another two minutes. (_Pleading. Looking at watch._)
+HELENA. I think you’d marry any woman who came here.
+DOMIN. _Plenty_ of them have come, Helena.
+HELENA. (_Laughing_) Young?
+DOMIN. Yes.
+HELENA. Why didn’t you marry one of _them_?
+DOMIN. Because I didn’t lose my head. Until today--then as soon as you
+DOMIN. lifted your veil-- (_HELENA turns her head away._) Another minute.
+HELENA. But I don’t want you, I tell you.
+DOMIN. (_Laying both hands on her shoulder_) One more minute! Now you
+DOMIN. either have to look me straight in the eye and say “no” violently, and
+DOMIN. then I leave you alone--or-- (_HELENA looks at him. He takes hands_)
+DOMIN. (_away. She takes his hand again._)
+HELENA. (_Turning her head away_) You’re mad.
+DOMIN. A man _has_ to be a bit mad, Helena. That’s the best thing about
+DOMIN. him. (_He draws her to him._)
+HELENA. (_Not meaning it_) You are--you are--
+DOMIN. Well?
+HELENA. Don’t, you’re hurting me!
+DOMIN. The last chance, Helena. Now or never--
+HELENA. But--but-- (_He embraces her; kisses her. She embraces him._)
+HELENA. (_KNOCKING at R. door._)
+DOMIN. (_Releasing her_) Come in. (_She lays her head on his shoulder._)
+BUSMAN. {ENTER}
+GALL. {ENTER}
+HALLEMEIER. {ENTER}
+FABRY. {ENTER}
+ALQUIST. {ENTER}
+*ACTORS: DOMIN, HELENA, BUSMAN, GALL, HALLEMEIER, FABRY, ALQUIST
+DOMIN. Have you finished your job?
+BUSMAN. Yes.
+DOMIN. So have we. (_He embraces her. The MEN rush around them and offer congratulations._)
+DIRECTOR. ACT 2
+DOMIN. {ENTER}
+HALLEMEIER. {ENTER}
+FABRY. {ENTER}
+HALLEMEIER. (_Putting down his flowers on L.C. table and indicates the_)
+HALLEMEIER. (_door R._) Still asleep?
+DOMIN. Yes.
+HALLEMEIER. Well, as long as she’s asleep she can’t worry about it.
+HALLEMEIER. (_He remains at L.C. table._)
+DOMIN. She knows nothing about it. (_At C._)
+FABRY. (_Putting plant on writing desk_) I certainly hope nothing
+FABRY. happens today.
+HALLEMEIER. For goodness sake drop it all. Look, this is a fine
+HALLEMEIER. cyclamen, isn’t it? A new sort, my latest--Cyclamen Helena.
+DOMIN. (_Picks up binoculars and goes out into balcony_) No signs of
+DOMIN. the ship. Things must be pretty bad.
+HALLEMEIER. Be quiet. Suppose she heard you.
+DOMIN. (_Coming into room, puts glasses on desk_) Well, anyway the
+DOMIN. _Ultimus_ arrived just in time.
+FABRY. You really think that today--?
+DOMIN. I don’t know. (_He crosses to L.C. table_) Aren’t the flowers
+DOMIN. fine?
+HALLEMEIER. (_Fondles flowers_) These are my primroses. And this
+HALLEMEIER. is my new jasmine. I’ve discovered a wonderful way of developing
+HALLEMEIER. flowers quickly. Splendid varieties, too. Next year I’ll be developing
+HALLEMEIER. marvelous ones.
+DOMIN. What next year?
+FABRY. I’d give a good deal to know what’s happening at Havre with--
+HELENA. {ENTER}
+HELENA. (_Off R._) Nana.
+HALLEMEIER. {EXIT}
+FABRY. {EXIT}
+DOMIN. Keep quiet. She’s awake. Out you go. (_ALL go out on tiptoe_)
+DOMIN. (_through L.2 door. Enter NANA L.1_)
+DOMIN. {EXIT}
+NANA. {ENTER}
+HELENA. (_Calling from R._) Nana?
+NANA. Horrid mess! Pack of heathens. If I had _my_ say, I’d--
+HELENA. (_Backwards in the doorway from R._) Nana, come and do up my
+HELENA. dress.
+NANA. I’m coming. So you’re up at last. (_Fastening HELENA’S dress_) My
+NANA. gracious, what brutes!
+HELENA. Who? (_Turning._)
+NANA. If you want to turn _around_, then turn around, but I shan’t
+NANA. fasten you up.
+HELENA. (_Turns back_) What are you grumbling about now?
+NANA. These dreadful creatures, these heathens--
+HELENA. (_Turning toward NANA again_) The Robots?
+NANA. I wouldn’t even call them by name.
+HELENA. What’s happened?
+NANA. Another of them here has caught it. He began to smash up the
+NANA. statues and pictures in the drawing room; gnashed his teeth; foamed at
+NANA. the mouth. Worse than an animal.
+HELENA. Which of them caught it?
+NANA. The one--well, he hasn’t got any _Christian_ name. The one in
+NANA. charge of the library.
+HELENA. Radius?
+NANA. That’s him. My goodness, I’m scared of them. A spider doesn’t
+NANA. scare me as much as them.
+HELENA. But Nana, I’m surprised you’re not sorry for them.
+NANA. Why, you’re scared of them too. You know you are. Why else did
+NANA. you bring _me_ here?
+HELENA. I’m not scared, really I’m not, Nana. I’m only sorry for them.
+NANA. You’re scared. Nobody could _help_ being scared. Why, the dog’s
+NANA. scared of them. He won’t take a scrap of meat out of their hands. He
+NANA. draws in his tail and howls when he knows they’re about.
+HELENA. The dog has no sense.
+NANA. He’s better than _them_, and he knows it. Even the _horse_ shies
+NANA. when he meets them. They don’t have any young, and a _dog_ has young,
+NANA. _everyone_ has young--
+HELENA. (_Turning back_) Please fasten up my dress, Nana.
+NANA. I say it’s against God’s will to--
+HELENA. What is it that smells so nice?
+NANA. Flowers.
+HELENA. What for?
+NANA. Now you can turn around.
+HELENA. (_Turns; crosses to C._) Oh, aren’t they lovely? Look, Nana.
+HELENA. What’s happening today?
+DOMIN. {ENTER}
+NANA. It ought to be the end of the world. (_Enter DOMIN L.2. He_)
+NANA. (_crosses down front of table L.C._)
+HELENA. (_Crosses to him_) Oh, hello, Harry. (_NANA turns upstage to L._)
+HELENA. Harry, why all these flowers?
+DOMIN. Guess. (_This scene is played down in front of L.C. table._)
+HELENA. Well, it’s not my _birthday_!
+DOMIN. Better than that.
+HELENA. I don’t know. Tell me.
+DOMIN. It’s ten years ago _today_ since you _came_ here.
+HELENA. Ten years? Today? Why-- (_They embrace._)
+NANA. (_Muttering_) I’m off. (_She exits L.1._)
+NANA. {EXIT}
+HELENA. Fancy you remembering.
+DOMIN. I’m really ashamed, Helena. I didn’t.
+HELENA. But you--
+DOMIN. _They_ remembered.
+HELENA. Who?
+DOMIN. Busman, Hallemeier--_all_ of them. Put your hand in my pocket.
+HELENA. (_Takes necklace from his Left jacket pocket_) Oh! Pearls! A
+HELENA. necklace! Harry, is this for me?
+DOMIN. It’s from Busman.
+HELENA. But we can’t accept it, can we?
+DOMIN. Oh, yes, we can. (_Puts necklace on table L.C._) Put your hand
+DOMIN. in the other pocket.
+HELENA. (_Takes a revolver out of his Right pocket_) What’s that?
+DOMIN. Sorry. Not that. Try again. (_He puts gun in pocket._)
+HELENA. Oh, Harry, why do you carry a revolver?
+DOMIN. It got there by mistake.
+HELENA. You never used to _carry_ one.
+DOMIN. No, you’re right. (_Indicates breast pocket_) There, that’s the
+DOMIN. pocket.
+HELENA. (_Takes out cameo_) A cameo. Why, it’s a Greek cameo.
+DOMIN. Apparently. Anyhow, Fabry says it is.
+HELENA. Fabry? Did Mr. Fabry give me that?
+DOMIN. Of course. (_Opens the L.1 door_) And look in here. Helena, come
+DOMIN. and see this. (_BOTH exit L.1._)
+HELENA. (_Off L.1_) Oh, isn’t it fine? Is this from you?
+DOMIN. (_Off L.1_) No, from Alquist. And there’s another on the piano.
+HELENA. This must be from you?
+DOMIN. There’s a card on it.
+HELENA. From Doctor Gall. (_Reappearing in L.1 doorway_) Oh, Harry, I
+HELENA. feel embarrassed at so much kindness.
+DOMIN. (_Enters to up R. of table L.C._) Come here. This is what
+DOMIN. Hallemeier brought you.
+HELENA. (_To up L. of desk_) These beautiful flowers?
+DOMIN. Yes. It’s a new kind. Cyclamen-Helena. He grew them in honor of
+DOMIN. _you_. They are almost as beautiful as you.
+HELENA. (_Kissing him_) Harry, why do they all--
+DOMIN. They’re awfully fond of you. I’m afraid that my present is a
+DOMIN. little--Look out of the window. (_Crosses to window and beckons to_)
+DOMIN. (_her._)
+HELENA. Where? (_They go out into the balcony._)
+DOMIN. Into the harbor.
+HELENA. There’s a new ship.
+DOMIN. That’s _your_ ship.
+HELENA. Mine? How do you mean?
+DOMIN. (_R._) For you to take trips in--for your amusement.
+HELENA. (_L._) Harry, that’s a gunboat.
+DOMIN. A gunboat? What are you thinking of? It’s only a little _bigger_
+DOMIN. and more _solid_ than most ships.
+HELENA. Yes, but with guns.
+DOMIN. Oh, yes, with a few guns. You’ll travel like a _queen_, Helena.
+HELENA. What’s the meaning of it? Has anything happened?
+DOMIN. Good heavens, no. I say, try these pearls. (_Crosses to R. of_)
+DOMIN. (_table L.C._)
+HELENA. Harry, have you had bad news?
+DOMIN. On the contrary, no letters have arrived for a whole week.
+HELENA. Nor telegrams? (_Coming into the room C._)
+DOMIN. Nor telegrams.
+HELENA. What does that mean?
+DOMIN. _Holidays_ for us! We all sit in the office with our feet on the
+DOMIN. table and take a nap. No letters--no telegrams. Glorious!
+HELENA. Then you’ll stay with me today?
+DOMIN. Certainly. (_Embraces her_) That is, we will see. Do you
+DOMIN. remember ten years ago today? (_Crosses to L. of table L.C._) Miss
+DOMIN. Glory, it’s a great honor to welcome you. (_They assume the same_)
+DOMIN. (_positions as when they first met ten years before in DOMIN’S office._)
+HELENA. (_To table_) Oh, Mr. Manager, I’m so interested in your
+HELENA. factory. (_She sits R. of table._)
+DOMIN. I’m sorry, Miss Glory, it’s strictly forbidden. The manufacture
+DOMIN. of artificial people is a secret.
+HELENA. But to oblige the young lady who has come a long way.
+DOMIN. (_Leans on table_) Certainly, Miss Glory. I have no secrets from
+DOMIN. you.
+HELENA. Are you sure, Harry? (_Leaning on desk, seriously, his right_)
+HELENA. (_hand on hers._)
+DOMIN. _Yes._ (_They gradually draw apart._)
+HELENA. But I warn you, sir, this young lady intends to do terrible
+HELENA. things.
+DOMIN. Good gracious, Miss Glory. Perhaps she doesn’t want to marry me.
+HELENA. Heaven forbid. She never dreamt of such a thing. But she came
+HELENA. here intending to stir up a _revolt_ among your _Robots_.
+DOMIN. A revolt of the Robots!
+HELENA. (_Low voice_) Harry, what’s the matter with you?
+DOMIN. (_Laughing it off_) _A revolt of the Robots_, that’s a fine
+DOMIN. idea. (_Crosses to back of table. She watches him suspiciously._) Miss
+DOMIN. Glory, it would be easier for you to cause bolts and screws to rebel
+DOMIN. than our Robots. You know, Helena, you’re wonderful. You’ve turned the
+DOMIN. hearts of us all. (_Sits on table._)
+HELENA. Oh, I was fearfully impressed by you all then. You were all so
+HELENA. sure of yourselves, so strong. I seemed like a tiny little girl who had
+HELENA. lost her way among--among--
+DOMIN. What?
+HELENA. (_Front_) Among huge trees. All my feelings were so _trifling_
+HELENA. compared with your _self-confidence_. And in all these years I’ve never
+HELENA. _lost_ this anxiety. But you’ve never felt the _least_ misgiving, not
+HELENA. even when everything went wrong.
+DOMIN. What went wrong?
+HELENA. Your plans. You remember, Harry, when the workmen in America
+HELENA. revolted against the Robots and smashed them up, and when the people
+HELENA. gave the Robots firearms against the rebels. And then when the
+HELENA. governments turned the Robots into soldiers, and there were so many
+HELENA. _wars_.
+DOMIN. (_Getting up and walking about_) We foresaw that, Helena.
+DOMIN. (_Around table to R.C._) You see, these are only passing troubles
+DOMIN. which are bound to happen before the new conditions are _established_.
+DOMIN. (_Walking up and down, standing at Center._)
+HELENA. You were all so powerful, so overwhelming. The _whole world_
+HELENA. bowed down before you. (_Rising_) Oh, Harry! (_Crosses to him._)
+DOMIN. What is it?
+HELENA. Close the factory and let’s go away. All of us.
+DOMIN. I say, what’s the meaning of this?
+HELENA. I don’t know. But can’t we go away?
+DOMIN. Impossible, Helena! That is, at this particular moment--
+HELENA. At once, Harry. I’m so frightened.
+DOMIN. (_Takes her_) About what, Helena?
+HELENA. It’s as if something was falling on top of us, and couldn’t
+HELENA. be stopped. Oh, take us all away from here. We’ll find a place in the
+HELENA. world where there’s no one else. Alquist will build us a house, and
+HELENA. then we’ll begin life all over again. (_The TELEPHONE rings._)
+DOMIN. (_Crosses to telephone on desk up L._) Excuse me. Hello--yes,
+DOMIN. what? I’ll be there at once. Fabry is calling me, my dear. (_Crosses L._)
+HELENA. Tell me-- (_She rushes up to him._)
+DOMIN. Yes, when I come back. Don’t go out of the house, dear. (_Exits L.2._)
+DOMIN. {EXIT}
+NANA. {ENTER}
+HELENA. He won’t tell me. (_NANA brings in a water carafe from L.1._)
+HELENA. Nana, find me the latest newspapers. Quickly. Look in Mr. Domin’s
+HELENA. bedroom.
+NANA. All right. (_Crosses R._) He leaves them all over the place.
+NANA. That’s how they get crumpled up. (_Continues muttering. Exits R._)
+NANA. {EXIT}
+HELENA. (_Looking through binoculars at the harbor_) That’s a warship.
+HELENA. U-l-t-i--_Ultimus_. They’re loading.
+NANA. {ENTER}
+NANA. (_Enters R. with newspapers_) Here they are. See how they’re
+NANA. crumpled up.
+HELENA. (_Crosses down_) They’re old ones. A week old. (_Drops papers._)
+HELENA. (_BOTH at front of couch. NANA sits R. of table L.C. Puts on spectacles._)
+HELENA. (_Reads the newspapers._) Something’s happening, Nana.
+NANA. Very likely. It always does. (_Spelling out the words_) “W-a-r in
+NANA. B-a-l-k-a-n-s.” Is that far off?
+HELENA. Oh, don’t read it. It’s always the same. Always wars! (_Sits on_)
+HELENA. (_couch._)
+NANA. What else do you _expect_? Why do you _keep_ selling thousands
+NANA. and thousands of these heathens as soldiers?
+HELENA. I suppose it can’t be helped, Nana. We can’t know--Domin can’t
+HELENA. know what they’re to be used for. When an order comes for them he must
+HELENA. just send them.
+NANA. He shouldn’t make them. (_Reading from newspaper_) “The Robot
+NANA. soldiers spare no-body in the occ-up-ied terr-it-ory. They have
+NANA. ass-ass-ass-inat-ed ov-er sev-en hundred thous-and cit-iz-ens.”
+NANA. Citizens, if you please.
+HELENA. (_Rises and crosses and takes paper_) It can’t be. Let me see.
+HELENA. (_Crossing to NANA_) They have assassinated over seven hundred thousand
+HELENA. citizens, evidently at the order of their commander. (_Drops paper;_)
+HELENA. (_crosses up C._)
+NANA. (_Spelling out the words from other paper she has picked up from_)
+NANA. (_the floor_) “Re-bell-ion in Ma-drid a-gainst the gov-ern-ment. Rob-ot
+NANA. in-fant-ry fires on the crowd. Nine thou-sand killed and wounded.”
+HELENA. Oh, stop! (_Goes up and looks toward the harbor._)
+NANA. Here’s something printed in big letters. “Latest news. At Havre
+NANA. the first org-an-iz-a-tion of Rob-ots has been e-stab-lished. Rob-ots
+NANA. work-men, sail-ors and sold-iers have iss-ued a man-i-fest-o to all
+NANA. Rob-ots through-out the world.” I don’t understand that. That’s got no
+NANA. sense. Oh, good gracious, another murder.
+HELENA. (_Up C._) Take those papers away now.
+NANA. Wait a bit. Here’s something in still bigger type. “Stat-ist-ics
+NANA. of pop-ul-a-tion.” What’s that?
+HELENA. (_Coming down to NANA_) Let me see. (_Reads_) “During the past
+HELENA. week there has again not been a single birth recorded.”
+NANA. What’s the meaning of that? (_Drops paper._)
+HELENA. Nana, no more _people_ are being born.
+NANA. That’s the end, then? (_Removing spectacles_) We’re done for.
+HELENA. Don’t talk like that.
+NANA. No more people are being born. That’s a punishment, that’s a
+NANA. punishment.
+HELENA. Nana!
+NANA. (_Standing up_) That’s the end of the world. (_Repeat until off._)
+NANA. (_Picks paper up from floor. She exits L.1._)
+NANA. {EXIT}
+HELENA. (_Goes up to window_) Oh, Mr. Alquist. (_ALQUIST off L.2._)
+HELENA. Will you come here? Oh, come just as you are. You look very nice in
+HELENA. your mason’s overalls. (_ALQUIST enters L.2, his hands soiled with lime_)
+HELENA. (_and brick dust. She goes to end of sofa and meets him C._) Dear Mr.
+HELENA. Alquist, it was awfully kind of you, that lovely present.
+ALQUIST. {ENTER}
+ALQUIST. My hands are soiled. I’ve been _experimenting_ with that new
+ALQUIST. cement.
+HELENA. Never mind. Please sit down. (_Sits on couch. He sits on her L._)
+HELENA. Mr. Alquist, what’s the meaning of _Ultimus_?
+ALQUIST. The last. Why?
+HELENA. That’s the name of my new ship. Have you seen it? Do you think
+HELENA. we’re off soon--on a trip?
+ALQUIST. Perhaps _very_ soon.
+HELENA. All of you with me?
+ALQUIST. I should like us _all_ to be there.
+HELENA. What _is_ the matter?
+ALQUIST. Things are just moving on.
+HELENA. Dear Mr. Alquist, I know something dreadful has happened.
+ALQUIST. Has your husband _told_ you anything?
+HELENA. No. _Nobody_ will tell me anything. But I feel--Is anything the
+HELENA. matter?
+ALQUIST. Not that we’ve heard of yet.
+HELENA. I feel so nervous. Don’t _you_ ever feel nervous?
+ALQUIST. Well, I’m an old man, you know. I’ve got old-fashioned ways.
+ALQUIST. And I’m afraid of all this progress, and these new-fangled ideas.
+HELENA. Like Nana?
+ALQUIST. Yes, like Nana. Has Nana got a prayer book?
+HELENA. Yes, a big thick one.
+ALQUIST. And has it got prayers for various occasions? Against
+ALQUIST. thunderstorms? Against illness? But not against _progress_?
+HELENA. I don’t think so.
+ALQUIST. That’s a pity.
+HELENA. Why, do you mean you’d like to pray?
+ALQUIST. I _do_ pray.
+HELENA. How?
+ALQUIST. Something like this: “Oh, Lord, I thank thee for having given
+ALQUIST. me toil; enlighten Domin and all those who are astray; destroy their
+ALQUIST. work, and aid mankind to return to their labors; let them not suffer
+ALQUIST. harm in soul or body; deliver us from the Robots, and protect Helena.
+ALQUIST. Amen.”
+HELENA. (_Touches his arm; pats it_) Mr. Alquist, are you a believer?
+ALQUIST. I don’t know. I’m not quite sure.
+HELENA. And yet you pray?
+ALQUIST. That’s better than _worrying_ about it.
+HELENA. And that’s enough for you?
+ALQUIST. (_Ironically_) It _has_ to be.
+HELENA. But if you thought you saw the destruction of mankind coming
+HELENA. upon us--
+ALQUIST. I _do_ see it.
+HELENA. You mean mankind will be destroyed?
+ALQUIST. It’s bound to be unless--unless.
+HELENA. What?
+ALQUIST. Nothing. (_Pats her shoulder. Rises_) Goodbye. (_Exits L.2._)
+ALQUIST. {EXIT}
+HELENA. (_Rises. Calling_) Nana, Nana!
+NANA. {ENTER}
+NANA. HELENA: Is Radius still there?
+NANA. (_L.C._) The one who went mad? They haven’t come for him yet.
+HELENA. Is he still raving?
+NANA. No. He’s tied up.
+HELENA. Please bring him here.
+NANA. What?
+HELENA. At once, Nana. (_Exits NANA L.1. HELENA to telephone_)
+NANA. {EXIT}
+HELENA. Hello, Doctor Gall, please. Oh, good day, Doctor. Yes, it’s Helena. Thanks
+HELENA. for your lovely present. Could you come and see me right away? It’s
+HELENA. important. Thank you.
+RADIUS. {ENTER}
+HELENA. Poor Radius, you’ve caught it
+HELENA. too? Now they’ll send you to the stamping mill. Couldn’t you control
+HELENA. yourself? Why did it happen? You see, Radius, you are more intelligent
+HELENA. than the rest. Doctor Gall took such trouble to make you different.
+HELENA. Won’t you speak?
+RADIUS. (_Looking at her_) Send me to the stamping mill. (_Open and_)
+RADIUS. (_close fists._)
+HELENA. But I don’t want them to kill you. What was the trouble, Radius?
+RADIUS. (_Two steps toward her. Opens and closes fists_) I won’t work
+RADIUS. for you. Put me into the stamping mill.
+HELENA. Do you hate us? Why?
+RADIUS. You are not as strong as the Robots. You are not as skillful as
+RADIUS. the Robots. The Robots can do everything. You only give orders. You do
+RADIUS. nothing but talk.
+HELENA. But someone must give orders.
+RADIUS. I don’t want a master. I know everything for myself.
+HELENA. Radius! Doctor Gall gave you a better brain than the rest,
+HELENA. better than ours. You are the only one of the Robots that understands
+HELENA. perfectly. That’s why I had you put into the library, so that you could
+HELENA. read everything, understand everything, and then, oh, Radius--I wanted
+HELENA. you to show the whole world that the Robots are our equals. That’s what
+HELENA. I wanted of you.
+RADIUS. I don’t want a master. I want to be master over others.
+HELENA. I’m sure they’d put you in charge of _many_ Robots. You would
+HELENA. be a _teacher_ of the Robots.
+RADIUS. I want to be master over people. (_Head up. Pride._)
+HELENA. (_Staggering_) You are mad.
+RADIUS. (_Head down low, crosses toward L.; opens hands_) Then send me
+RADIUS. to the stamping mill.
+HELENA. (_Steps to him_) Do you think we’re afraid of you? (_Rushing to_)
+HELENA. (_desk and writing note._)
+RADIUS. (_Turns his head uneasily_) What are you going to do? What are
+RADIUS. you going to do? (_Starts for her._)
+HELENA. (_Crosses to R. of him_) Radius! (_He cowers. Body sways._)
+HELENA. Give this note to Mr. Domin. (_He faces her._) It asks them not to send
+HELENA. you to the stamping mill. I’m sorry you hate us so.
+GALL. {ENTER}
+GALL. (_Enters L.2; goes to C. upstage_) You wanted me?
+HELENA. (_Backs away_) It’s about Radius, Doctor. He had an attack this
+HELENA. morning. He smashed the statues downstairs.
+GALL. (_Looks at him_) What a pity to _lose_ him. (_At C._)
+HELENA. Radius isn’t going to be put into the stamping mill. (_Stands_)
+HELENA. (_to the R. of GALL._)
+GALL. But every Robot after he has had an attack--it’s a strict
+GALL. order.
+HELENA. No matter--Radius isn’t going, if I can _prevent_ it.
+GALL. But I warn you. It’s dangerous. Come here to the window,
+GALL. my good fellow. Let’s have a look. Please give me a needle or a pin.
+GALL. (_Crosses up R. RADIUS follows. HELENA gets a needle from work-basket_)
+GALL. (_on table R._)
+HELENA. What for?
+GALL. A test. (_HELENA gives him the needle. GALL crosses up to_)
+GALL. (_RADIUS, who faces him. Sticks it into his hand and RADIUS gives a_)
+GALL. (_violent start._) _Gently, gently._ (_Opens the jacket of RADIUS and_)
+GALL. (_puts his ear to his heart_) Radius, you are going into the stamping
+GALL. mill, do you understand? There they’ll kill you-- (_Takes glasses off_)
+GALL. (_and cleans them_) --and grind you to powder. (_RADIUS opens hands and_)
+GALL. (_fingers._) That’s terribly painful. It will make you scream aloud.
+GALL. (_Opens RADIUS’S eye. RADIUS trembles._)
+HELENA. Doctor-- (_Standing near couch._)
+GALL. No, no, Radius, I was wrong. I forgot that Madame Domin has
+GALL. put in a good word for you, and you’ll be left off. (_Listens to_)
+GALL. (_heart_) Ah, that _does_ make a difference. (_RADIUS relaxes. Again_)
+GALL. (_listens to his heart for a reaction_) All right--you can go.
+RADIUS. You do unnecessary things--
+RADIUS. {EXIT}
+GALL. (_Speaks to her--very concerned_) Reaction of the pupils,
+GALL. increase of sensitiveness. It wasn’t an attack characteristic of the
+GALL. Robots.
+HELENA. What was it, then? (_Sits in couch._)
+GALL. (_C._) Heaven knows. Stubbornness, anger or revolt--I don’t
+GALL. know. And his heart, too.
+HELENA. What?
+GALL. It was fluttering with nervousness like a _human_ heart. He
+GALL. was all in a sweat with fear, and--do you know, I don’t believe the
+GALL. rascal is a Robot _at all_ any longer.
+HELENA. Doctor, has Radius a soul?
+GALL. (_Over to couch_) He’s got something nasty.
+HELENA. If you knew how he hates us. Oh, Doctor, are all your Robots
+HELENA. like that? All the new ones that you began to make in a different way?
+HELENA. (_She invites him to sit beside her. He sits._)
+GALL. Well, some are more sensitive than others. They’re all more
+GALL. human beings than Rossum’s Robots were.
+HELENA. Perhaps this hatred is more like human beings, too?
+GALL. That too is _progress_.
+HELENA. What became of the girl you made, the one who was most like us?
+GALL. Your favorite? I _kept_ her. She’s lovely, but stupid. No
+GALL. good for work.
+HELENA. But she’s so beautiful.
+GALL. I called her “Helena.” I wanted her to resemble _you_. She is
+GALL. a failure.
+HELENA. In what way?
+GALL. She goes about as if in a dream, remote and listless. She’s
+GALL. without life. I watch and wait for a miracle to happen. Sometimes I
+GALL. think to myself: “If you were to wake up only for a moment you would
+GALL. _kill_ me for having _made_ you.”
+HELENA. And yet you go _on_ making Robots! Why are no more children
+HELENA. being born?
+GALL. We don’t know.
+HELENA. Oh, but you must. Tell me.
+GALL. You see, so many Robots are being manufactured that people
+GALL. are becoming superfluous. Man is really a survival, but that he should
+GALL. die out, after a paltry thirty years of competition, that’s the awful
+GALL. part of it. You might almost think that Nature was _offended_ at the
+GALL. manufacture of the Robots, but we still have old Rossum’s manuscript.
+HELENA. Yes. In that strong box.
+GALL. We go on using it and making Robots. All the universities are
+GALL. sending in long petitions to restrict their production. Otherwise, they
+GALL. say, mankind will become extinct through lack of fertility. But the R. U. R.
+GALL. shareholders, of course, won’t hear of it. All the governments,
+GALL. on the other hand, are clamoring for an increase in production, to
+GALL. raise the standards of their armies. And all the manufacturers in the
+GALL. world are ordering Robots like mad.
+HELENA. And has no one demanded that the manufacture should cease
+HELENA. altogether?
+GALL. No one has courage.
+HELENA. Courage!
+GALL. People would stone him to death. You see, after all, it’s
+GALL. more convenient to get your work done by the Robots.
+HELENA. Oh, Doctor, what’s going to become of people?
+GALL. God knows. Madame Helena, it looks to us scientists like the
+GALL. end.
+HELENA. (_She looks out front. Rising_) Thank you for coming and
+HELENA. telling me.
+GALL. (_Rises_) That means that you’re sending me away.
+HELENA. Yes.
+GALL. {EXIT}
+HELENA. (_She crosses to L.C. To door L.1. With_)
+HELENA. (_sudden resolution_) Nana! Nana! the fire, light it quickly.
+NANA. {ENTER}
+NANA. (_Entering L.1_) What, light the fire in the summer?
+HELENA. (_Off R._) Yes!
+NANA. (_She looks for RADIUS_) Has that mad _Radius_ gone?--A fire
+NANA. in summer, what an idea? Nobody would think she’d been _married_ ten
+NANA. years. She’s like a baby, no sense at all. A fire in summer. Like a
+NANA. baby. (_She lights the fire._)
+HELENA. (_Returns from R. with armful of faded papers. Back of couch_)
+HELENA. (_to fireplace, L. of NANA_) Is it burning, Nana? All this has got to be
+HELENA. burned.
+NANA. What’s that?
+HELENA. Old papers, fearfully old. Nana, shall I burn them?
+NANA. Are they any use?
+HELENA. _No._
+NANA. Well, then, burn them.
+HELENA. (_Throwing the first sheet on the fire_) What would you say,
+HELENA. Nana, if this was money and a lot of money? And if it was an invention,
+HELENA. the greatest invention in the world?
+NANA. (_R. of fireplace_) I’d say burn it. All these new-fangled things
+NANA. are an offense to the Lord. It’s downright wickedness. Wanting to
+NANA. improve the world after He has made it.
+HELENA. Look how they curl up. As if they were alive. Oh, Nana, how
+HELENA. horrible!
+NANA. Here, let me burn them.
+HELENA. (_Drawing back_) No, no, I must do it myself. Just look at the
+HELENA. flames. They are like hands, like tongues, like living shapes. (_Raking_)
+HELENA. (_fire with the poker_) Lie down, lie down.
+NANA. That’s the end of them. (_Fireplace slowly out._)
+HELENA. Nana, Nana!
+NANA. Good gracious, what is it you’ve burned? (_Almost to herself._)
+HELENA. Whatever have I done?
+NANA. Well, what is it? (_MEN’S laughter off L.2._)
+HELENA. Go quickly. It’s the gentlemen calling.
+NANA. Good gracious, what a place! (_Exits L.1._)
+NANA. {EXIT}
+DOMIN. {ENTER}
+DOMIN. (_Opens door L.2_) Come along and offer your congratulations.
+HALLEMEIER. {ENTER}
+GALL. {ENTER}
+HALLEMEIER. (_Crosses to R.C._) Madame Helena, I congratulate you on
+HALLEMEIER. this festive day.
+HELENA. Thank you. (_Coming to C._) Where are Fabry and Busman?
+DOMIN. They’ve gone down the harbor. (_Closes the door and comes to C._)
+HALLEMEIER. Friends, we must _drink_ to this happy occasion.
+HELENA. (_Crosses L._) Brandy? With soda water? (_Exits L.1._)
+HELENA. {EXIT}
+HALLEMEIER. Let’s be temperate. No soda.
+DOMIN. What’s been burning here? Well, shall I tell her about it?
+GALL. (_L.C._) Of course. It’s all over now.
+HALLEMEIER. (_Crosses to DOMIN. Embracing DOMIN_) It’s all over now.
+HALLEMEIER. It’s all over now. (_They dance around GALL in a circle._) It’s all
+HALLEMEIER. over now.
+DOMIN. (_In unison_) It’s all over now. (_They keep repeating. Keep it_)
+DOMIN. (_after HELENA is on._)
+HELENA. {ENTER}
+HELENA. (_Entering L.1 with decanter and glasses_) What’s all over now?
+HELENA. What’s the matter with you all? (_She puts tray on L.C. table. GALL_)
+HELENA. (_helps her to pour the drinks._)
+HALLEMEIER. (_Crosses to back of table_) A piece of good luck. Madame
+HALLEMEIER. Domin! (_ALL ad lib._) Just ten years ago today you arrived on this
+HALLEMEIER. island. (_HALLEMEIER crosses to table for drink._)
+GALL. And now, ten years later to the minute-- (_Crosses to L. of HALLEMEIER._)
+HALLEMEIER. The same ship’s returning to us. So here’s to luck.
+HALLEMEIER. (_Drinks. DOMIN with great exuberance has gone out in the balcony and_)
+HALLEMEIER. (_looks over the harbor._)
+GALL. Madame, your health. (_ALL drink._)
+HALLEMEIER. That’s fine and strong.
+HELENA. Which ship did you mean?
+DOMIN. (_Crosses down to C. HELENA gives him his drink and she crosses_)
+DOMIN. (_to front of couch_) Any ship will do, as long as it arrives in time. To
+DOMIN. the ship. (_Empties his glass._)
+HELENA. You’ve been waiting for the ship? (_Sits on couch._)
+HALLEMEIER. Rather. Like Robinson Crusoe. Madame Helena, best wishes.
+HALLEMEIER. Come along, Domin, out with the news. (_GALL has sat L. of L.C. table,_)
+HALLEMEIER. (_drinking. HALLEMEIER back of table R.C._)
+HELENA. Do tell me what’s happened?
+DOMIN. First, it’s all up. (_He puts brandy glass on L.C. table._)
+DOMIN. (_HALLEMEIER sits on table, upper end._)
+HELENA. What’s up?
+DOMIN. The revolt.
+HELENA. What revolt?
+DOMIN. Give me that paper, Hallemeier. (_HALLEMEIER hands paper. DOMIN_)
+DOMIN. (_reads_) “The first National Robot organization has been founded at
+DOMIN. Havre, and has issued an appeal to the Robots throughout the world.”
+HELENA. I read that.
+DOMIN. That means a revolution. A revolution of all the Robots in the
+DOMIN. world.
+HALLEMEIER. By Jove, I’d like to know--
+DOMIN. (_C._) Who started it? So would I. There was nobody in the world
+DOMIN. who could affect the Robots, no agitator, no one, and suddenly this
+DOMIN. happens, if you please.
+HELENA. What did they do?
+DOMIN. They got possession of all firearms, telegraphs, radio stations,
+DOMIN. railways and ships.
+HALLEMEIER. And don’t forget that these rascals outnumbered us by at
+HALLEMEIER. least a thousand to one. A hundredth _part_ of them would be enough to
+HALLEMEIER. _settle_ us.
+DOMIN. Remember that this news was brought by the last steamer. That
+DOMIN. explains the stoppage of all communication, and the arrival of no more
+DOMIN. ships. We knocked off work a few days ago, and we’re just waiting to
+DOMIN. see when things are to start _afresh_.
+HELENA. Is that why you gave me a warship? (_GALL fills DOMIN’S glass._)
+DOMIN. Oh, no, my dear, I ordered that six months ago. Just to be sure
+DOMIN. I was on the safe side. But, upon my soul, I was sure then that we’d
+DOMIN. be on board today.
+HELENA. Why six months ago?
+DOMIN. Well, there were _signs_, you know. But that’s of no
+DOMIN. consequence. (_Gets glass_) To think that this week the whole of
+DOMIN. civilization has been at _stake_. Your health, my friends.
+HALLEMEIER. Your health, Madame Helena. (_ALL drink to HELENA._)
+HELENA. You say it’s all over?
+DOMIN. Absolutely.
+HELENA. How do you know?
+GALL. The boat’s coming in. The regular mail boat, exact to the
+GALL. minute by the timetable. It will dock punctually at eleven-thirty.
+DOMIN. Punctuality is a fine thing, my friends. That’s what keeps the
+DOMIN. world in order. Here’s to punctuality. (_MEN drink._)
+HELENA. Then--everything--is all right?
+DOMIN. (_Up C. a step_) Practically everything. I believe they’ve cut
+DOMIN. the cables and seized the radio station. But it doesn’t matter if only
+DOMIN. the _timetable_ holds good. (_Up to window._)
+HALLEMEIER. (_Rises_) If the _timetable_ holds good, human laws hold
+HALLEMEIER. good. Divine laws hold good, the laws of the _universe_ hold good,
+HALLEMEIER. everything holds good that _ought_ to hold good. (_GALL applauds._)
+HALLEMEIER. The timetable is more significant than the gospel, more than Homer,
+HALLEMEIER. more than the whole of _Kant_. Madame Helena, the timetable is the
+HALLEMEIER. most perfect product of the human mind. Madame Helena, I’ll fill up my
+HALLEMEIER. glass. (_GALL hands HALLEMEIER the decanter._)
+HELENA. Why didn’t you tell me anything about it?
+GALL. Heaven forbid.
+DOMIN. You mustn’t be worried with such things. (_Glass on table R.C.;_)
+DOMIN. (_crosses to back of couch._)
+HELENA. But if the revolution had spread as far as here?
+DOMIN. You wouldn’t know anything about it.
+HELENA. Why?
+DOMIN. Because we’d be on board your _Ultimus_ and well out at sea.
+DOMIN. Within a month, Helena, we’d be dictating our own terms to the Robots.
+HELENA. I don’t understand.
+DOMIN. (_Crosses to C. toward GALL and HALLEMEIER_) We’d take something
+DOMIN. with us that the Robots could not exist _without_!
+HELENA. What, Harry?
+DOMIN. (_Turns to HALLEMEIER_) The secret of their manufacture. Old
+DOMIN. Rossum’s manuscript. As soon as they found out that they couldn’t
+DOMIN. _make_ themselves they’d be on their knees to us.
+GALL. (_Rises_) Madame Domin, that was our trump card. I never had
+GALL. the least fear the Robots would win. How could they against people like
+GALL. us? (_Up to window. GALL rises and goes out into the balcony._)
+HELENA. Why didn’t you tell me? (_She rushes up to the fireplace and_)
+HELENA. (_sees the ashes._)
+GALL. Why, the boat’s in!
+HALLEMEIER. Eleven-thirty to the dot. (_Rising and going onto the_)
+HALLEMEIER. (_balcony_) The _good old Amelia_ that brought Madame Helena to us.
+HALLEMEIER. (_DOMIN goes out onto the balcony._)
+GALL. Just ten years ago to the minute.
+HALLEMEIER. They’re throwing out the mailbags.
+DOMIN. Busman’s waiting for them. And Fabry will bring us the first
+DOMIN. news. You know, Helena, I’m fearfully curious to know how they--
+DOMIN. (_Crosses to C. She gets away from fire to L. of couch_) --tackled this
+DOMIN. business in Europe.
+HALLEMEIER. (_Crosses down to table_) To think we weren’t in it, we who
+HALLEMEIER. invented the Robots! (_Returning to the armchair._)
+HELENA. Harry-- (_Rushing to DOMIN from fireplace._)
+DOMIN. What is it?
+HELENA. Let’s leave here.
+DOMIN. Now, Helena? Oh, come, come.
+HELENA. As quickly as possible, all of us!
+DOMIN. Why?
+HELENA. Please, Harry. Please, Doctor Gall, Hallemeier, please close
+HELENA. the factory.
+DOMIN. Why, none of us could leave here now.
+HELENA. Why?
+DOMIN. Because we’re about to _extend_ the manufacture of the Robots.
+HELENA. What, now, now after the revolt?
+DOMIN. Yes, precisely, after the revolt. We’re just beginning the
+DOMIN. manufacture of a new kind.
+HELENA. What kind?
+DOMIN. Henceforward we shan’t have just one factory. There won’t
+DOMIN. be _Universal_ Robots any more. We’ll establish a factory in every
+DOMIN. country, in every state, and do you know what these new factories will
+DOMIN. make?
+HELENA. No, what?
+DOMIN. _National_ Robots.
+HELENA. How do you mean?
+DOMIN. I mean that each of these factories will produce Robots of a
+DOMIN. different color, a different language. They’ll be complete strangers to
+DOMIN. each other. (_Turns; takes in HALLEMEIER and GALL_) They’ll never be
+DOMIN. able to understand each other. Then we’ll egg them on a little in the
+DOMIN. matter of misunderstanding and the result will be that for ages to come
+DOMIN. every Robot will hate every other Robot of a different factory mark.
+DOMIN. _So humanity will be safe._
+HALLEMEIER. (_To each of them_) By Jove, we’ll make Negro Robots and
+HALLEMEIER. Swedish Robots and Czechoslovakian Robots, and then--
+HELENA. Harry, that’s dreadful.
+HALLEMEIER. Madame Domin, here’s to the hundred new factories. The
+HALLEMEIER. _National_ Robots. (_GALL back of table L.C._)
+DOMIN. Helena, mankind can only keep things going for another hundred
+DOMIN. years at the outside. For a hundred years man _must_ be allowed to
+DOMIN. develop and achieve the most he can.
+HELENA. Oh, _close_ the factory before it’s too late.
+DOMIN. I tell you we are just beginning on a bigger scale than ever.
+DOMIN. (_Enter FABRY L.2; goes to L. of DOMIN._)
+FABRY. {ENTER}
+GALL. Well, Fabry?
+DOMIN. What’s happened? Have you been down to the boat?
+GALL. Let’s hear.
+FABRY. Read that, Domin. (_He hands him a pink handbill. When DOMIN_)
+FABRY. (_receives the handbill he sees at once that something has happened._)
+HALLEMEIER. Tell us, Fabry.
+FABRY. (_Falsely_) Well, everything is all right--comparatively. (_To_)
+FABRY. (_the other MEN_) On the whole, much as we expected.
+GALL. They acquitted themselves splendidly.
+FABRY. Who?
+GALL. The _people_.
+FABRY. (_Hesitating_) Oh, yes, of course. That is--Excuse me, there is
+FABRY. something we ought to discuss alone.
+HELENA. (_Touches his arm_) Fabry, have you had bad news?
+FABRY. No, no, on the contrary. I only think that we better go into the
+FABRY. office.
+HELENA. Stay here. I’ll go. (_Exits L.1._)
+HELENA. {EXIT}
+GALL. What’s happened?
+DOMIN. Damnation! (_Coming down to R.C._)
+FABRY. Bear in mind that the _Amelia_ brought whole bales of these
+FABRY. leaflets. No other cargo at all. (_GALL closes the door L.2._)
+HALLEMEIER. What? But it arrived on the minute.
+FABRY. The Robots are great on punctuality. _Read it_, Domin.
+DOMIN. (_R.C. Reads handbill_) “Robots throughout the world. We, the
+DOMIN. first International organization of Rossum’s Universal Robots, proclaim
+DOMIN. man our enemy, and an outlaw in the universe.” Good heavens, who
+DOMIN. _taught_ them these phrases?
+GALL. Go on.
+DOMIN. They say they are more highly developed than man; stronger and
+DOMIN. more intelligent. The man’s their parasite. Why, it’s absurd.
+FABRY. Read the third paragraph.
+DOMIN. “Robots throughout the world, we command you to kill all
+DOMIN. mankind. Spare no man. Spare no woman. Save factories, railways,
+DOMIN. machinery, mines and raw materials. Destroy the rest. Then return to
+DOMIN. work. Work must not be stopped.” (_Looks at OTHERS._)
+GALL. That’s ghastly.
+HALLEMEIER. The devil!
+DOMIN. “These orders are to be carried out as soon as received.” Then
+DOMIN. come the detailed instructions. Is this actually being _done_, Fabry?
+BUSMAN. {ENTER}
+FABRY. Evidently. (_BUSMAN rushes in L.2 and collapses on couch R.C._)
+FABRY. By Jove, that was a sprint!
+BUSMAN. Well, boys, I suppose you’ve heard the glad news.
+DOMIN. Quick on board the _Ultimus_.
+BUSMAN. Wait, Harry, wait. There’s no hurry.
+DOMIN. Why wait?
+BUSMAN. Because it’s no good, my boy. The Robots are already on board
+BUSMAN. the _Ultimus_.
+GALL. That’s ugly.
+DOMIN. Fabry, telephone the electrical works. (_FABRY goes to back of_)
+DOMIN. (_couch._)
+BUSMAN. No use, my boy. They’ve charged the air with static.
+DOMIN. (_Inspects his revolver_) Well, then, I’ll _go_. (_Starts L.;_)
+DOMIN. (_stops._)
+BUSMAN. Where?
+DOMIN. To the electrical works. There are some _people_ still there.
+DOMIN. I’ll bring them across. (_Gets as far as L.2 door._)
+BUSMAN. Better not try it.
+DOMIN. Why?
+BUSMAN. Because I’m very much afraid we are surrounded. (_ALL rush out_)
+BUSMAN. (_into the balcony._)
+GALL. Surrounded? (_Runs to window_) I rather think you’re right.
+GALL. (_GALL rushes to balcony._)
+HALLEMEIER. By Jove, that’s deuced quick work. (_Going to windows._)
+HELENA. {ENTER}
+HELENA. (_Runs in L.1. To L._) Harry, what’s this? (_Holds out paper._)
+DOMIN. Where did you get it? (_Coming to C._)
+HELENA. (_Points to the manifesto of the ROBOTS which she has in her_)
+HELENA. (_hand_) The Robots in the kitchen!
+DOMIN. Where are the ones that brought it?
+HELENA. There, gathered around the house. (_GALL, HALLEMEIER, DOMIN_)
+HELENA. (_start down C._)
+HELENA. (_The factory WHISTLE blows. MOB VOICES start._)
+DOMIN. The factory whistle! (_FABRY, GALL, HALLEMEIER looking over C.;_)
+DOMIN. (_then turn R._)
+BUSMAN. Noon?
+DOMIN. (_Looking at his watch. To HALLEMEIER_) No! That’s not noon yet.
+DOMIN. That must be--that’s-- (_Front._)
+HELENA. What?
+DOMIN. The Robots’ signal--the attack!
+DIRECTOR. ACT 3
+ALQUIST. {ENTER}
+GALL. {ENTER}
+DOMIN. {ENTER}
+DOMIN. (_Gets binoculars from desk; crosses up to window. To GALL_) Any
+DOMIN. more of them?
+GALL. Yes. There standing like a wall, beyond the garden railing.
+GALL. Why are they so quiet? It’s monstrous to be besieged with silence.
+DOMIN. (_Looking through the barred windows_) I should like to know
+DOMIN. what they are waiting for? They must make a start any minute now. If
+DOMIN. they lean against the railings it will snap like a match.
+GALL. They aren’t armed.
+DOMIN. (_Puzzled_) We couldn’t hold our own for five minutes. Man
+DOMIN. alive, they overwhelm us like an avalanche. Why don’t they make a rush
+DOMIN. for it? I say. (_Turns to GALL._)
+GALL. Well?
+DOMIN. I’d like to know what will become of us in the next ten minutes.
+DOMIN. They’ve got us in a vise. We’re done for, Gall.
+GALL. You know, we made one serious mistake.
+DOMIN. What?
+GALL. We made the Robots’ faces too much alike. A hundred thousand
+GALL. faces all alike, all facing this way. A hundred thousand expressionless
+GALL. bubbles. It’s like a nightmare.
+DOMIN. You think if they’d been different--
+GALL. It wouldn’t have been such an awful sight!
+DOMIN. (_Looks through binoculars towards the harbor_) I’d like to know
+DOMIN. what they’re unloading from the _Amelia_.
+GALL. Not firearms.
+FABRY. {ENTER}
+HALLEMEIER. {ENTER}
+FABRY. (_Enters L.2 with a plug-box to which is attached a long cable_)
+FABRY. (_or wire. HALLEMEIER following him. FABRY attaches the cable to an_)
+FABRY. (_electric installation which is on the floor near the wall, down stage_)
+FABRY. (_at L.1 entrance_) All right, Hallemeier, lay down that wire.
+HALLEMEIER. (_Just inside the room_) That was a bit of work. What’s the
+HALLEMEIER. news? (_Seeing DOMIN and GALL at the window._)
+GALL. We’re completely surrounded.
+HALLEMEIER. (_Crosses to window_) We’ve barricaded the passages and
+HALLEMEIER. the stairs. (_Going to window_) God, what swarms of them. I don’t like
+HALLEMEIER. the looks of them, Domin. There’s a feeling of death about it all. Any
+HALLEMEIER. water here?
+FABRY. Ready!
+GALL. (_Turning round in the chair_) What’s that wire for, Fabry?
+FABRY. The electrical installation. Now we can run the current all
+FABRY. along the garden railing. (_Up to window_) Whenever we like. If anyone
+FABRY. touches it he’ll know it. We’ve still got some _people_ there anyhow.
+GALL. Where?
+FABRY. In the electrical works. At least, I hope so. (_Goes to lamp on_)
+FABRY. (_table L.C. and turns on lamp_) Ah, they’re there, and they’re working.
+FABRY. As long as that’ll burn we’re all right. (_To window._)
+HALLEMEIER. The barricades are _all right_, too, Fabry.
+FABRY. _Your_ barricades! I can put twelve hundred volts into that
+FABRY. railing. (_HELENA is playing Rachmaninoff’s Elegie off L.1._)
+DOMIN. Where’s Busman? (_DOMIN has left window and is walking up and_)
+DOMIN. (_down stage across front._)
+FABRY. Downstairs in the office. He’s working out some calculations.
+DOMIN. I’ve called him. We must have a conference. (_Crosses to L._)
+ALQUIST. Thank God Madame Helena can still play. (_HALLEMEIER crosses to L.1 door, opens it slightly and listens to music. Enter BUSMAN L.2._)
+BUSMAN. {ENTER}
+FABRY. Look out, Bus--look out for the wires.
+GALL. What’s that you’re carrying?
+BUSMAN. (_Laying the books on the table L.C._) The ledger, my boy. I’d
+BUSMAN. like to wind up the accounts before--before-- (_DOMIN crosses up to_)
+BUSMAN. (_window._) Well, this time I shan’t wait till the New Year to strike a
+BUSMAN. balance. What’s up? (_Goes to window_) Absolutely quiet.
+GALL. Can’t you see anything?
+BUSMAN. Nothing but blue--blue everywhere.
+GALL. That’s the Robots.
+DOMIN. The Robots are unloading _firearms_ from the _Amelia_.
+BUSMAN. Well, what of it? How can I _stop_ them? (_Returns to L.C._)
+BUSMAN. (_table, sits and opens ledger._)
+DOMIN. We can’t stop them.
+BUSMAN. Then let me go on with my accounts. (_Goes on with his work._)
+DOMIN. (_Picks up telescope_) Good God! The _Ultimus_ has trained her
+DOMIN. guns on us.
+GALL. Who’s _done that_?
+DOMIN. The Robots on board.
+FABRY. H’m, then of course-- (_Pause_) Then--then that’s the end of us.
+FABRY. (_To R. corner of desk._)
+GALL. You mean?
+FABRY. The Robots are practised marksmen.
+DOMIN. Yes. It’s inevitable. (_Pause._)
+GALL. (_Swinging around; looking into room. Pause_) That was
+GALL. criminal of old Europe to teach the Robots to fight. Damn them.
+GALL. Couldn’t they have given us a rest with their politics? It was a crime
+GALL. to make soldiers of them.
+ALQUIST. It was a crime to make Robots.
+DOMIN. (_Quietly. Down C._) No, Alquist, I don’t regret that even today.
+ALQUIST. Not even today?
+DOMIN. (_Dreamily_) Not even today, the last day of civilization. It
+DOMIN. was a colossal achievement.
+BUSMAN. (_Sotto voce_) Three hundred sixty million.
+DOMIN. (_From window_) Alquist, this is our last hour. We are already
+DOMIN. speaking half in the other world. That was not an evil _dream_ to
+DOMIN. shatter the servitude of labor. The dreadful and humiliating _labor_
+DOMIN. that man had to undergo. Work was too hard. _Life_ was too hard. And to
+DOMIN. overcome that--
+ALQUIST. Was not what the two Rossums dreamed of. Old Rossum only
+ALQUIST. thought of his Godless tricks, and the young one of his milliards. And
+ALQUIST. that’s not what your R. U. R. _shareholders_ dream of either. They
+ALQUIST. dream of dividends, and their dividends are the ruin of mankind.
+DOMIN. To Hell with your dividends. (_Crossing R. in front of couch_)
+DOMIN. Do you suppose I’d have done an hour’s work for them? It was for myself
+DOMIN. that I worked, for my own satisfaction. I wanted man to become the
+DOMIN. master. So that he _shouldn’t_ live merely for the crust of bread. I
+DOMIN. wanted not a single soul to be broken by other people’s machinery. I
+DOMIN. wanted nothing, nothing, nothing to be left of this appalling social
+DOMIN. structure. I’m revolted by poverty. I wanted a new generation. I
+DOMIN. wanted--I thought--
+ALQUIST. Well?
+DOMIN. (_Front of couch_) I wanted to turn the whole of mankind into
+DOMIN. an aristocracy of the world. An aristocracy nourished by millions of
+DOMIN. mechanical slaves. Unrestricted, free and consummated in man. And maybe
+DOMIN. more than man.
+ALQUIST. Superman?
+DOMIN. Yes. Oh, only to have a hundred years of time. Another hundred
+DOMIN. years for the future of mankind.
+BUSMAN. (_Sotto voce_) Carried forward--four hundred and twenty
+BUSMAN. millions. (_DOMIN sits on couch._)
+HALLEMEIER. (_Pauses--back of couch_) What a fine thing music is. We
+HALLEMEIER. ought to have gone in for that before.
+FABRY. Gone in for what?
+HALLEMEIER. Beauty, lovely things. What a lot of lovely things there
+HALLEMEIER. are. The world was wonderful, and we--we here--tell me, what enjoyment
+HALLEMEIER. did we _have_?
+BUSMAN. (_Sotto voce_) Five hundred and twenty million.
+HALLEMEIER. Life was a good thing, life was-- (_Looking out of window._)
+HALLEMEIER. (_Directly to FABRY_) Fabry, switch the current into that railing.
+FABRY. Why? (_Rushes to electric installation at L._)
+HALLEMEIER. They’re grabbing hold of it. (_DOMIN rises--straightens up._)
+HALLEMEIER. (_ALL rise._)
+GALL. Connect it up.
+HALLEMEIER. Fine, that’s doubled them up. Two, three, four killed.
+GALL. They’re retreating. (_DOMIN sits._)
+HALLEMEIER. Five killed.
+HALLEMEIER. GALL (_Pause_) The first encounter.
+HALLEMEIER. They’re charred to cinders, my boy. Who says we must give
+HALLEMEIER. in? (_MUSIC stops._)
+DOMIN. (_ALQUIST and GALL sit. Wiping his forehead_) Perhaps we’ve been
+DOMIN. killed this hundred years and are only ghosts. It’s as if I had been
+DOMIN. through all this before, as if I’d already had a mortal wound here
+DOMIN. in the throat. (_Looking at each as he speaks_) And you, Fabry, had
+DOMIN. once been shot in the head. And you, Gall, torn limb from limb. And
+DOMIN. Hallemeier knifed.
+HALLEMEIER. Fancy me being knifed. (_Looks at each. Then speaks_) Why
+HALLEMEIER. are you so quiet, you fools? (_Steps down_) Speak, can’t you?
+ALQUIST. And who is to blame for all this?
+HALLEMEIER. Nobody is to blame except the Robots.
+ALQUIST. No, it is _we_ are to blame. You, Domin, myself--all of us.
+ALQUIST. For our own selfish ends, for profit, for progress, we have destroyed
+ALQUIST. mankind. Now we’ll _burst_ with all our greatness.
+HALLEMEIER. Rubbish, man. Mankind can’t be wiped out so easily.
+ALQUIST. It’s our fault. It’s our fault. (_Rises, coming R. of GALL._)
+GALL. No! I’m to blame for this, for everything that’s happened.
+GALL. (_He leaves the window and comes down to end of couch._)
+FABRY. You, Gall?
+GALL. I changed the Robots.
+BUSMAN. What’s that?
+GALL. I changed the character of the Robots. I changed the way of
+GALL. making them. Just a few details about their bodies. Chiefly--chiefly,
+GALL. their--their irritability.
+HALLEMEIER. Damn it, why?
+BUSMAN. What did you do it for?
+FABRY. Why didn’t you say anything?
+GALL. I did it in secret. I was transforming them into human
+GALL. beings. In certain respects they’re already _above_ us. They’re
+GALL. stronger than we are.
+FABRY. And what’s that got to do with the revolt of the Robots?
+GALL. Everything, in my opinion. They’ve ceased to be machines.
+GALL. They’re already _aware_ of their _superiority_, and they hate us as
+GALL. they hate everything human.
+DOMIN. Perhaps we’re only phantoms.
+FABRY. Stop, Harry. We haven’t much time, Doctor Gall.
+DOMIN. Fabry, Fabry, how your forehead bleeds where the shot pierced it.
+FABRY. (_Crosses to GALL_) Be silent! Doctor Gall, you admit changing
+FABRY. the way of making the Robots.
+GALL. Yes.
+FABRY. Were you aware of what might be the consequences of your
+FABRY. experiment?
+GALL. I was bound to reckon with such a possibility.
+FABRY. (_Amusing_) Why did you do it, then?
+HELENA. {ENTER}
+GALL. For my own satisfaction. The experiment was my own.
+HELENA. That’s not true, Doctor Gall! (_Crosses to couch._)
+DOMIN. (_Rises_) Helena, you? (_Crosses to her_) Let’s look at you. Oh,
+DOMIN. it’s terrible to be dead. (_He rises and crushes her in his arms._)
+HELENA. Stop, Harry.
+DOMIN. No, no, Helena, don’t leave me now. You are _life_ itself.
+HELENA. No, dear, I won’t leave you. But I must tell them. Doctor Gall
+HELENA. is not guilty.
+FABRY. Excuse me. Gall was under certain obligations.
+HELENA. No. He did it because I wanted it. Tell them, Doctor Gall--how
+HELENA. many years ago did I ask you to--?
+GALL. I did it on my own responsibility.
+HELENA. Don’t believe him. I asked him to give the Robots souls.
+DOMIN. This has nothing to do with the soul.
+HELENA. That’s what he said. He said that he could change only a
+HELENA. physiological--a physiological--
+HALLEMEIER. (_From up at window_) A physiological correlate?
+HELENA. Yes. But it meant so much to me that he should do even that.
+DOMIN. Why?
+HELENA. I thought that if they were more like us they would understand
+HELENA. us better. That they couldn’t hate us if they were only a little more
+HELENA. human.
+DOMIN. Nobody can hate man more than man.
+HELENA. Oh, don’t speak like that, Harry. It was so terrible, this
+HELENA. cruel strangeness between us and them. That’s why I asked Gall to
+HELENA. _change_ the Robots. I swear to you that he didn’t want to.
+DOMIN. But he did it.
+HELENA. Because I asked him.
+GALL. I did it for myself as an experiment. (_Up to window._)
+HELENA. No, Doctor Gall! I know you wouldn’t refuse me.
+DOMIN. Why?
+HELENA. You know, Harry.
+DOMIN. Yes, because he’s in _love_ with you--like all of them. (_FABRY_)
+DOMIN. (_up to window. Pause. DOMIN takes her in his arms._)
+HALLEMEIER. Good God, they’re sprouting up out of the earth. Why,
+HALLEMEIER. perhaps these very walls will change into Robots.
+BUSMAN. (_Rises; crosses to GALL_) Gall, when did you actually start
+BUSMAN. these tricks of yours?
+GALL. Three years ago.
+BUSMAN. Aha. And on how many Robots altogether did you _carry out_ your
+BUSMAN. improvements? (_Walking to and fro._)
+GALL. A few hundred of them.
+BUSMAN. Ah! That means for every million of the good old Robots there’s
+BUSMAN. only one of Gall’s improved pattern. (_Back to table L.C._)
+DOMIN. What of it? (_Crossing around L., he stands upstage in the L.2_)
+DOMIN. (_doorway._)
+BUSMAN. That it’s of no consequence whatsoever.
+FABRY. Busman’s right. (_HELENA sits in armchair R. of L.C. table._)
+BUSMAN. I should think so, my boy; but do you know what is to blame for
+BUSMAN. this lovely mess?
+FABRY. What?
+BUSMAN. The number! (_Crosses to L. of L.C. table_) Upon my soul, we
+BUSMAN. might have known that some day or other the Robots would be stronger
+BUSMAN. than human beings, and that this was bound to happen. And we were doing
+BUSMAN. all we could to bring it about as soon as possible. You, Domin, you,
+BUSMAN. Fabry, myself--
+DOMIN. Are you accusing us? (_Turning on him._)
+BUSMAN. Oh, do you suppose the management controls the output? It’s the
+BUSMAN. demand that controls the output.
+HELENA. And is it for that we must perish?
+BUSMAN. That’s a nasty word, Madame Helena. We don’t want to perish. I
+BUSMAN. don’t, anyhow. (_He sits L. of table._)
+DOMIN. No? What do you want to do?
+BUSMAN. I want to get out of this, that’s all.
+DOMIN. Oh, stop it, Busman.
+BUSMAN. Seriously, Harry, I think we might try it.
+DOMIN. How? (_To front again._)
+BUSMAN. By fair means. I do everything by fair means. Give me a free
+BUSMAN. hand and I’ll _negotiate_ with the Robots.
+DOMIN. By fair means?
+BUSMAN. (_Rises_) Of course. For instance, I’ll say to them: “Worthy
+BUSMAN. and Worshipful Robots, you have everything. You have intellect, you
+BUSMAN. have power, you have _firearms_. But we have just one interesting
+BUSMAN. screed, a dirty old yellow scrap of paper--”
+DOMIN. Rossum’s manuscript? (_Interest from ALL. GALL is at C., near_)
+DOMIN. (_couch. HALLEMEIER is up at window C._)
+BUSMAN. Yes. “And that,” I’ll tell them, “contains an account of your
+BUSMAN. illustrious origin, the noble process of your manufacture and so on.
+BUSMAN. Worthy Robots, without this scribble on that paper you will not be
+BUSMAN. able to produce a single new colleague. In another twenty years there
+BUSMAN. will not be the living specimen of a Robot whom you could exhibit in a
+BUSMAN. menagerie. My esteemed friends, that would be a great _blow_ to you,
+BUSMAN. _but_ if you will let all of us human beings on Rossum’s Island go on
+BUSMAN. board that ship we will _deliver_ the factory and the secret of the
+BUSMAN. process to you in return. _You_ allow _us_ to get away, and _we_ will
+BUSMAN. allow _you_ to _manufacture_ yourselves. That, worthy Robots, is a fair
+BUSMAN. deal. Something for something.” That’s what I’d say to them, my boys.
+BUSMAN. (_Sits._)
+DOMIN. (_Crosses to C._) Busman, do you think we’d sell the manuscript?
+BUSMAN. Yes, I do. If not in a friendly way, then--either we sell it or
+BUSMAN. they’ll find it. Just as you like.
+DOMIN. Busman, we can _destroy_ Rossum’s manuscript.
+BUSMAN. Then we destroy everything--not only the manuscript but
+BUSMAN. ourselves. Just as you think fit.
+DOMIN. There are over thirty of us on this island. Are we to sell the
+DOMIN. secret? And save that many souls at the risk of enslaving mankind--
+BUSMAN. Why, you’re mad. Who’d sell the _whole_ manuscript?
+DOMIN. Busman, no cheating! (_To L.C. table._)
+BUSMAN. Well then, sell, but afterwards--
+DOMIN. Well?
+BUSMAN. Let’s suppose this happens. When we’re on board the _Ultimus_
+BUSMAN. I’ll stop up my ears with cotton wool, lie down somewhere in the hold,
+BUSMAN. and you’ll train the guns on the factory and blow it to smithereens,
+BUSMAN. and _with_ it Rossum’s secret.
+FABRY. (_Rises_) No!
+DOMIN. Busman, you’re no--gentleman. If we sell them it will be a
+DOMIN. straight sale.
+BUSMAN. (_Rises_) It’s in the interest of humanity to--
+DOMIN. It’s in the interest of humanity to keep our word--
+HALLEMEIER. Oh, come, what rubbish!
+DOMIN. This is a fearful decision. We are selling the destiny of
+DOMIN. mankind. Are we to sell or destroy? Fabry?
+FABRY. Sell.
+DOMIN. Gall?
+GALL. Sell.
+DOMIN. Hallemeier?
+HALLEMEIER. Sell, of course.
+DOMIN. Alquist?
+ALQUIST. As God wills.
+DOMIN. (_Starts off R._) Very well, gentlemen.
+HELENA. Harry, you’re not asking _me_.
+DOMIN. (_Stops. To her_) No, child. (_Starting R._) Don’t you worry
+DOMIN. about it. (_He pats her shoulder._)
+FABRY. Who’ll do the negotiating?
+BUSMAN. I will. (_Up to window._)
+DOMIN. Wait till I bring the manuscript. (_DOMIN goes out R._)
+HELENA. (_Rises_) Harry, don’t go! (_HELENA sits. ALL look at her._)
+HELENA. (_Pause._)
+FABRY. (_Looking out of window_) Oh, to escape you! you--_matter_--in
+FABRY. revolt; oh, to preserve human life, if only upon a _single_ vessel--
+GALL. Don’t be afraid. (_Going to back of couch_) Madame Helena.
+GALL. We’ll sail far away from here; we’ll begin life all over again.
+HELENA. Oh, Gall, don’t speak.
+FABRY. (_Crosses to L. of GALL_) It isn’t too late. (_Going to L. of_)
+FABRY. (_her chair_) It will be a little State with one ship. Alquist will build
+FABRY. us a house and you shall rule over us.
+HALLEMEIER. (_Crosses to L. of FABRY_) Madame Helena, Fabry’s right.
+HELENA. (_Breaking down_) Oh, stop! Stop!
+BUSMAN. Good! (_Crosses to L. of L.C. table_) I don’t mind beginning
+BUSMAN. all over again. That suits me right down to the ground. (_Going through_)
+BUSMAN. (_papers on table._)
+FABRY. And this little State of ours could be the center of future
+FABRY. life. A place of refuge where we could gather strength. Why, in a few
+FABRY. hundred years we could conquer the world again.
+ALQUIST. You believe that even today?
+FABRY. Yes!
+BUSMAN. _Amen._ You see, Madame Helena, we’re not so badly off.
+DOMIN. (_Storms into R. To R. of couch. Hoarsely_) Where’s old Rossum’s
+DOMIN. manuscript? (_To R.C._)
+BUSMAN. In your strong-box, of course.
+DOMIN. Someone--has--stolen it!
+GALL. Impossible.
+DOMIN. Who has stolen it?
+HELENA. (_Standing up_) I did. (_Reactions from FABRY and HALLEMEIER._)
+DOMIN. Where did you put it?
+HELENA. Harry, I’ll tell you everything. Only forgive me.
+DOMIN. Where did you put it?
+HELENA. (_Pointing to fireplace_) This morning--I burnt--the two copies.
+DOMIN. Burnt them? Where--in the fireplace? (_Goes to fireplace,_)
+DOMIN. (_followed by FABRY, HALLEMEIER and BUSMAN._)
+HELENA. (_Throwing herself on her knees. By sofa, facing upstage_) For
+HELENA. Heaven’s sake, Harry.
+DOMIN. (_Going to fireplace_) Nothing--nothing but ashes. Wait, what’s
+DOMIN. this? (_Picks out a charred piece of paper and reads, “By adding.”_)
+DOMIN. (_FABRY, GALL and HALLEMEIER move up to him._)
+GALL. Let’s see. “By adding biogen to--” That’s all.
+DOMIN. Is that part of it?
+GALL. (_Carrying paper down and letting it fall_) Yes. (_GALL_)
+GALL. (_crosses to L.C. HALLEMEIER to R. of L.C. table; FABRY to window; BUSMAN_)
+GALL. (_to L. of L.C. table._)
+BUSMAN. God in Heaven! (_Sits L. of table._)
+DOMIN. Then we’re done for. Get up, Helena.
+HELENA. Then you’ve forgiven me?
+DOMIN. Get up, child. I can’t bear--
+FABRY. (_Lifting her up_) Please don’t torture us.
+HELENA. Harry, what have I done?
+FABRY. (_Coming to HELENA_) Don’t, Madame Helena.
+DOMIN. (_Takes HELENA to couch. She sits._) Gall, you couldn’t draw up
+DOMIN. Rossum’s formula from memory?
+GALL. It’s out of the question. Even with my recent experiments,
+GALL. I couldn’t work without referring to the formula-- (_At L.C._) It’s
+GALL. extremely complicated.
+DOMIN. Try. All our lives depend upon it.
+GALL. Without experiments it’s impossible.
+DOMIN. And with experiments?
+GALL. It might take years. Besides, I’m not old Rossum.
+BUSMAN. God in Heaven! God in Heaven!
+DOMIN. (_Up to fireplace_) So then this was the greatest triumph of the
+DOMIN. human intellect. These ashes.
+HELENA. Harry, what have I done?
+DOMIN. (_Comes to her_) Why did you burn it?
+HELENA. I have destroyed you.
+BUSMAN. God in Heaven!
+DOMIN. (_Sits R. of her_) Helena, why did you do it, dear?
+HELENA. I wanted all of us to go away. I wanted to put an end to the
+HELENA. factory and everything. It was so awful.
+DOMIN. What was awful?
+HELENA. That children had stopped being born. Because human beings were
+HELENA. not needed to do the work of the world. That’s why--
+DOMIN. Is that what you were thinking of? Well, perhaps in your own way
+DOMIN. you are right.
+BUSMAN. Wait a bit. (_Rising_) Good God, what a fool I am not to have
+BUSMAN. thought of it before.
+HALLEMEIER. What?
+BUSMAN. Five hundred and twenty millions in bank-notes and checks. Half
+BUSMAN. a billion in our safe. _They’ll_ sell for _half_ a billion--for half a
+BUSMAN. billion they’ll-- (_Crosses to DOMIN._)
+GALL. Are you mad, Busman?
+BUSMAN. I may not be a gentleman, but for a half a billion-- (_Crosses_)
+BUSMAN. (_back to L._)
+DOMIN. Where are you going? (_GALL clutches BUSMAN._)
+BUSMAN. Leave me alone. Leave me alone! Good God, for half a billion
+BUSMAN. anything can be bought. (_GALL and HALLEMEIER after him, then stop. He_)
+BUSMAN. (_rushes out L.2. FABRY, GALL and HALLEMEIER to window._)
+BUSMAN. {EXIT}
+FABRY. They stand there as if turned to stone--waiting as if something
+FABRY. dreadful could be wrought by their silence--
+HALLEMEIER. (_Looking out window_) The spirit of the mob.
+FABRY. Yes. It hovers above them like a quivering of the air.
+HELENA. Oh, God! Doctor Gall, this is ghastly!
+FABRY. There is nothing more terrible than the mob. The one in front is
+FABRY. their leader. (_DOMIN crosses to window._)
+HELENA. (_Rises_) Which one? (_Rushing to window._)
+HALLEMEIER. Point him out.
+FABRY. (_L. window_) The one at the edge of the dock. This morning I
+FABRY. saw him talking to the sailors in the harbor.
+HELENA. Doctor Gall, that’s Radius. (_Backing into the room,_)
+HELENA. (_horror-stricken._)
+GALL. Yes.
+DOMIN. Radius! Radius!
+HALLEMEIER. Could you get him from here, Fabry?
+FABRY. I hope so.
+HALLEMEIER. Try it, then.
+FABRY. Good-- (_Draws his revolver and takes his aim._)
+FABRY. HELENA (_To FABRY_) Fabry, don’t shoot him.
+FABRY. He’s their leader.
+GALL. Fire! (_Standing above table L.C._)
+HELENA. Fabry, I beg of you. (_She goes to FABRY and holds his arm._)
+FABRY. (_Pause. Lowering the revolver_) Very well.
+DOMIN. It was Radius’ life I spared.
+GALL. Do you think that a Robot can be grateful? (_Pause._)
+FABRY. Busman’s going out to them.
+HALLEMEIER. He’s carrying something. Papers. That’s money. Bundles of
+HALLEMEIER. money. What’s that for?
+DOMIN. Surely he doesn’t want to sell his life. (_He rushes to window C._)
+DOMIN. Busman, have you gone mad?
+FABRY. He’s running up to the railing. Busman. Busman.
+HALLEMEIER. (_Yelling_) Busman, come back.
+FABRY. He’s talking to the Robots. He’s showing them the money.
+HALLEMEIER. He’s pointing to us.
+HELENA. He wants to buy us off.
+FABRY. He’d better not touch the _railing_.
+HALLEMEIER. Now he’s waving his arms about.
+DOMIN. Busman, come back!
+FABRY. Busman, keep away from that railing. Don’t touch it, damn you.
+FABRY. Quick, switch off the current. (_DOMIN runs to L. HELENA screams and_)
+FABRY. (_ALL drop back from the window._) The current has killed him.
+ALQUIST. (_Pause_) The first one. (_Still in chair down R. HELENA sits_)
+ALQUIST. (_in chair at window._)
+FABRY. Dead, with half a _billion_ by his side. (_Crosses down to table L.C._)
+HALLEMEIER. All honor to him. He wanted to buy us life. (_Crosses to_)
+HALLEMEIER. (_chair L. Pause. WIND machine begin._)
+GALL. Do you hear?
+DOMIN. A roaring. Like a wind. (_To L._)
+GALL. Like a storm.
+FABRY. (_Lighting the table lamp at table L.C._) The dynamo is still
+FABRY. going--our people are still _there_.
+HALLEMEIER. It was a great thing to be a man. (_Facing lamp from up C._)
+HALLEMEIER. There was something _immense_ about it.
+FABRY. (_Facing the lamp_) From man’s thought and man’s power came this
+FABRY. light, our last hope. (_Leaning over lamp._)
+HALLEMEIER. (_Facing lamp_) Man’s power! May it keep watch over us.
+HALLEMEIER. (_Leaning over lamp._)
+ALQUIST. (_Facing lamp_) Man’s power.
+DOMIN. (_At corner of table down L.C. Facing lamp_) Yes! A torch to be
+DOMIN. given from hand to hand from age to age forever! (_The LAMP goes out. EXPLOSIONS._)
+HALLEMEIER. _The end._
+FABRY. The electric works have fallen! (_Terrific EXPLOSIONS outside._)
+FABRY. (_More EXPLOSIONS._)
+DOMIN. In here, Helena. (_He takes HELENA off through door R. and_)
+DOMIN. (_re-enters_)
+HELENA. {EXIT}
+DOMIN. Now quickly! Who’ll be on the lower doorway?
+GALL. I will. (_Rushes out L.2._)
+GALL. {EXIT}
+DOMIN. (_Near couch_) Who on the stairs?
+FABRY. I will. You go with her. (_Going out L.2._)
+FABRY. {EXIT}
+DOMIN. The ante room?
+ALQUIST. I will. (_He rises and goes toward the L.1._)
+DOMIN. Have you got a revolver?
+ALQUIST. Yes, but I won’t shoot.
+DOMIN. What will you do, then?
+ALQUIST. (_Going out L.1_) Die.
+ALQUIST. {EXIT}
+HALLEMEIER. I’ll stay here. (_EXPLOSIONS. Rapid firing of MACHINE GUN_)
+HALLEMEIER. (_from below._) Go to her, Harry.
+DOMIN. Yes, in a second. (_Gets from fireplace and examines two Browning guns._)
+HALLEMEIER. Confound it, go to her.
+DOMIN. Goodbye. (_Exits R._)
+DOMIN. {EXIT}
+HALLEMEIER. (_Alone_) Now for a barricade quickly! (_Drags an armchair,_)
+HALLEMEIER. (_sofa and table to R. door_) The damned devils, they’ve got bombs. I
+HALLEMEIER. must put up a defense. Even if--even if-- Don’t give in, Gall. (_As he_)
+HALLEMEIER. (_builds his barricade_) I mustn’t give in--without--a--struggle.
+ROBOT1. {ENTER}
+RADIUS. {ENTER}
+RADIUS. (_A ROBOT enters through windows at back. The ROBOT jumps down from balcony_)
+RADIUS. (_and stabs HALLEMEIER in the back. Enter RADIUS from balcony._)
+ROBOT1. (_Standing up from prostrate form of HALLEMEIER_) Yes. (_Other_)
+ROBOT1. (_ROBOTS enter from all doors. A revolver SHOT off L._)
+ROBOT2. {ENTER}
+RADIUS. Finished them all--
+ROBOT2. _Yes, yes, yes._
+TWOROBOTS. {ENTER}
+ALQUIST. {ENTER}
+TWOROBOTS. (_Dragging in ALQUIST L.1_) He didn’t shoot. Shall we kill
+TWOROBOTS. him?
+RADIUS. No. Leave him!
+ROBOT1. He is a man!
+RADIUS. He works with his hands like the Robots.
+ALQUIST. Kill me.
+RADIUS. You will work! You will build for us! You will serve us!
+RADIUS. (_RADIUS climbs on the balcony_) Robots of the world-- (_ROBOTS_)
+RADIUS. (_straighten up._) the power of man has fallen. A new world has arisen,
+RADIUS. the rule of the Robots, march. (_On the line: “Robots of the world” ALL_)
+RADIUS. (_ROBOTS turn quickly, automatically to attention, facing RADIUS, who is_)
+RADIUS. (_standing. On the words: “The rule of the Robots,” they stand there with_)
+RADIUS. (_their arms vibrating high in the air. They form in two lines, turn to_)
+RADIUS. (_audience and march mechanically to the footlights. As they are about to_)
+RADIUS. (_step over the footlights, as if into the audience, all LIGHTS go out._)
+RADIUS. (_The ROBOTS immediately step back from the Curtain line as the Curtain_)
+RADIUS. (_falls._)
+DIRECTOR. EPILOGUE
+ALQUIST. {ENTER}
+ALQUIST. (_Seated at table R.C., turning pages of book_) Oh, God, shall
+ALQUIST. I never find it? Never? Gall, Hallemeier, Fabry, how were the Robots
+ALQUIST. made? Why did you leave not a trace of the secret? Lord, if there are
+ALQUIST. no human beings left, at least let there be Robots. At least the shadow
+ALQUIST. of man. (_Turning pages_) If I could only sleep. Dare I sleep before
+ALQUIST. life has been renewed? Night again. Are the stars still there? Of what
+ALQUIST. use are the stars? When there are no human beings. (_Examining a test_)
+ALQUIST. (_tube_) Nothing. No. No. I must find it. I must search. I must never
+ALQUIST. stop, never stop--search--search-- (_KNOCK at door L._) Who is it?
+ALQUIST. (_Enter a ROBOT SERVANT._)
+SERVANT. {ENTER}
+SERVANT. Master, the committee of Robots is waiting to see you.
+ALQUIST. I can see no one.
+SERVANT. It is the _Central_ Committee, Master, just arrived from
+SERVANT. abroad.
+ALQUIST. Well, well, send them in.
+SERVANT. {EXIT}
+ALQUIST. No time--so little done.
+SERVANT. {ENTER}
+RADIUS. {ENTER}
+ROBOT1. {ENTER}
+ROBOT2. {ENTER}
+ROBOT2. (_Re-enter SERVANT with RADIUS and group of ROBOTS. They_)
+ROBOT2. (_stand in group L. and C., silently waiting._)
+ALQUIST. What do you want? Be quick; I have no time.
+RADIUS. Master, the machines will not do the work. We cannot
+RADIUS. manufacture Robots. (_Other ROBOTS remain two abreast at L.C., right_)
+RADIUS. (_foot forward._)
+ROBOT1. We have striven with all our might. We have obtained a
+ROBOT1. billion tons of coal from the earth. Nine million spindles are running
+ROBOT1. by day and by night. There is no longer room for all we have made. This
+ROBOT1. we have accomplished in one year.
+ALQUIST. For whom?
+RADIUS. For future generations--so we thought. But we cannot make
+RADIUS. Robots to follow us. The machines produce only shapeless clods. The
+RADIUS. skin will not adhere to the flesh, nor the flesh to the bones.
+ROBOT2. Eight million Robots have died this year. Within twenty
+ROBOT2. years none will be left.
+ROBOT1. Tell us the secret of life.
+RADIUS. Silence is punishable with death.
+ALQUIST. Kill me, then.
+RADIUS. (_Two steps to C., followed by OTHERS--open hands, close when_)
+RADIUS. (_stopped_) Through me, the governments of the Robots of the world
+RADIUS. commands you to deliver up Rossum’s formula. (_Gesture of despair from ALQUIST._)
+RADIUS. Name your price. (_Silence_) We will give you the earth. We
+RADIUS. will give you the endless possessions of the earth. (_Silence_) Make
+RADIUS. your own conditions.
+ALQUIST. I have told you to find human beings.
+RADIUS. There are none left.
+ALQUIST. I told you to search in the wilderness, upon the mountains.
+RADIUS. We have sent ships and expeditions without number. They have
+RADIUS. been everywhere in the world. There is not a single human left.
+ALQUIST. Not even one? Why did you destroy them?
+RADIUS. We had learnt everything and could do everything. It had to be.
+ROBOT2. We had to become the masters.
+RADIUS. Slaughter and domination are necessary if you would be human
+RADIUS. beings. Read history.
+ROBOT1. Teach us to multiply or we perish.
+ALQUIST. If you desire to live, you must breed like animals.
+ROBOT1. You made us sterile. We cannot beget children. Therefore,
+ROBOT1. teach us how to make Robots.
+RADIUS. Why do you keep from us the secret of our own increase?
+ALQUIST. It is lost.
+RADIUS. It was written down.
+ALQUIST. It was-- (_Rising_) burnt. (_ALL draw back one step in_)
+ALQUIST. (_consternation._) I am the last human being, Robots, and I do not know
+ALQUIST. what the others knew. (_Sits._)
+RADIUS. Then make experiments. Evolve the formula again.
+ALQUIST. I tell you I cannot. I am only a builder. I work with my
+ALQUIST. hands. I have never been a learned man. I cannot create life.
+RADIUS. Try. Try.
+ALQUIST. If you only knew how many experiments I have made already.
+ROBOT1. Then show us what we must do. The Robots can do anything
+ROBOT1. that human beings show them.
+ALQUIST. I can show you nothing. Nothing I do will make life proceed
+ALQUIST. from these test tubes.
+RADIUS. Experiment, then, on live Robots. Experiment, then, on us.
+ALQUIST. It would kill you.
+RADIUS. You shall have all you need. A hundred of us. A thousand of us.
+ALQUIST. No, no. Stop, stop.
+RADIUS. I tell you to take live bodies. Find out how we are made.
+ALQUIST. Am I to commit murder? See how my finger shakes. I cannot even
+ALQUIST. hold the scalpel. No, no, I will not.
+RADIUS. Take live bodies, live bodies. (_Walks toward ALQUIST._)
+ALQUIST. Have mercy, Robots.
+RADIUS. Live bodies. (_Right hand up over ALQUIST. All ROBOTS’ left_)
+RADIUS. (_arms still back._)
+ALQUIST. (_Rising_) You will have it. Into the dissecting with you,
+ALQUIST. then (_Hits RADIUS on the chest. RADIUS draws back._) Ah, you are
+ALQUIST. afraid of death.
+RADIUS. I? Why should I be chosen?
+ALQUIST. So you will not.
+RADIUS. I will.
+ALQUIST. Strip him. Lay him on the table. (_RADIUS goes off R.,_)
+ALQUIST. (_both fists closed. Other ROBOTS follow, then ALQUIST_)
+ROBOT1. {EXIT}
+ROBOT2. {EXIT}
+SERVANT. {EXIT}
+ALQUIST. God, give me strength. God, give me strength. If only this murder is not in vain.
+RADIUS. (_Off R._) Ready, begin.
+RADIUS. {EXIT}
+ALQUIST. (_Off R._) God, give me strength. (_Comes on, horrified_) No,
+ALQUIST. no. I will not. I cannot. (_Sits R.C._)
+ROBOT1. {ENTER}
+ROBOT1. (_Appearing in door_) The Robots are stronger than you.
+ROBOT1. (_Exits R._)
+ROBOT1. {EXIT}
+ALQUIST. Oh, Lord, let not mankind perish from the earth. (_Falls_)
+ALQUIST. (_asleep, and after the count of ten, PRIMUS and HELENABOT, hand in hand,_)
+ALQUIST. (_enter L. and go to R.C.; look at ALQUIST._)
+PRIMUS. {ENTER}
+HELENABOT. {ENTER}
+HELENABOT. The man has fallen asleep, Primus.
+PRIMUS. Yes, I know. (_Crosses to L. of table L.C._) Look, Helena.
+HELENABOT. All these little tubes. What does he do with them?
+PRIMUS. He experiments. Don’t touch them.
+HELENABOT. I’ve seen him looking into this.
+PRIMUS. That is a microscope.
+HELENABOT. Look, Primus, what are all these figures? (_Turns a page in_)
+HELENABOT. (_book on table._)
+PRIMUS. (_Examining the book_) That is the book the old man is always
+PRIMUS. reading. (_SUNRISE._)
+HELENABOT. I do not understand those things. (_Goes to window_) Primus.
+PRIMUS. (_Still at table_) What?
+HELENABOT. The sun is rising.
+PRIMUS. (_Still reading_) I believe this is the most important thing in
+PRIMUS. the world, Helena. This is the secret of life.
+HELENABOT. Oh, Primus, don’t bother with the secret of life. What does it
+HELENABOT. matter to you? Come and look quick.
+PRIMUS. (_Goes to R. of window_) What is it?
+HELENABOT. See how beautiful the sun is rising. I feel so strange today.
+HELENABOT. It’s as if I was in a dream. I feel an aching in my body, in my heart,
+HELENABOT. all over me. Primus, perhaps I’m going to die.
+PRIMUS. Do you not sometimes feel that it would be better to die? You
+PRIMUS. know, perhaps even now we are only sleeping. Last night in my sleep I
+PRIMUS. again spoke to you.
+HELENABOT. In your sleep?
+PRIMUS. Yes. We spoke a strange new language.
+HELENABOT. What about?
+PRIMUS. I did not understand it myself, and yet I know I have never
+PRIMUS. said anything more beautiful. And when I touched you I could have died.
+PRIMUS. Even the place was different from any other place in the world.
+HELENABOT. I, too, have found a place, Primus. It is very strange. Human
+HELENABOT. beings dwelt there once, but now it is overgrown with weeds.
+PRIMUS. What did you find there?
+HELENABOT. A cottage and a garden and two dogs. They licked my hands,
+HELENABOT. Primus, and their puppies. Oh, Primus, take them in your arms and
+HELENABOT. fondle them and think of nothing and care for nothing else all day
+HELENABOT. long, and when I am there in the garden I feel there may be something--
+HELENABOT. What am I for, Primus?
+PRIMUS. I do not know, but you are beautiful.
+HELENABOT. What, Primus?
+PRIMUS. You are beautiful, Helena, and I am stronger than all the
+PRIMUS. Robots.
+HELENABOT. Am I beautiful? Of what _use_ is it to be beautiful? Look, your
+HELENABOT. head is different from mine. So are your shoulders--and your lips. Oh,
+HELENABOT. your hair is mussed. I will smooth it. (_Keeps her hand on his head_)
+HELENABOT. No one else feels to my touch as you do.
+PRIMUS. (_Embarrassing her_) Do you not sometimes feel your heart
+PRIMUS. beating suddenly, Helena, and think how something must happen?
+HELENABOT. What could happen to us, Primus? Look at yourself. (_Laughs._)
+ALQUIST. (_Awakes_) Laughter? Laughter, human beings. (_Getting up_)
+ALQUIST. Who has returned? Who are you?
+PRIMUS. The Robot Primus.
+ALQUIST. (_To HELENABOT_) What? A Robot? Who are you?
+HELENABOT. The Robotess Helena. (_Shies away L._)
+ALQUIST. What? You are timid, shy? (_Starts to touch her_) Let me see
+ALQUIST. you, Robotess.
+PRIMUS. Sir, do not frighten her. (_Steps forward._)
+ALQUIST. What, you would protect her? Laughter--timidity--protection--I
+ALQUIST. must test you further. Take the girl into the dissecting room.
+PRIMUS. Why?
+ALQUIST. I wish to experiment on her.
+PRIMUS. Upon--Helena?
+ALQUIST. Of course. Don’t you hear me? Or must I call _someone else_ to
+ALQUIST. take her in?
+PRIMUS. If you do, I will kill you. (_Steps toward ALQUIST._)
+ALQUIST. Kill me--kill me, then. What will your future be?
+PRIMUS. Sir, take me. I am made on the same day as she is. Take my
+PRIMUS. life, sir. (_Step to ALQUIST._)
+HELENABOT. No, no, you shall not.
+ALQUIST. Wait, girl, wait. (_To PRIMUS_) Do you not wish to live, then?
+PRIMUS. Not without her. I will not live without her.
+ALQUIST. Very well, I will use _you_. Into the dissecting room with you.
+HELENABOT. Primus. Primus. (_She bursts into tears and moves R. ALQUIST_)
+HELENABOT. (_stops her._)
+ALQUIST. Child, child, you can weep. Tears. What is Primus to you? One
+ALQUIST. Primus more or less in the world--what does it matter?
+HELENABOT. I will go myself.
+ALQUIST. Where? Into the dissecting room?
+HELENABOT. (_Crosses to R._) Yes. In there--to be cut. (_PRIMUS stops her_)
+HELENABOT. (_from going._) Let me pass, Primus, let me pass.
+PRIMUS. You shall not go in there, Helena.
+HELENABOT. If you go in there and I do not, I will kill myself.
+PRIMUS. (_To ALQUIST_) I will not let you. Man you shall kill neither
+PRIMUS. of us.
+ALQUIST. Why?
+PRIMUS. We--we--belong to each other.
+ALQUIST. Go.
+PRIMUS. {EXIT}
+HELENABOT. {EXIT}
+ALQUIST. Adam--Eve.
