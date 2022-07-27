@@ -26,7 +26,5 @@ let sayLineInterval = setInterval(sayLine, 1000);
 function sayLine()
     {
     ws.send(lines[curline]);
-    curline++;
-    if (curline == lines.length)
-        clearInterval(sayLineInterval);
+    curline = (curline+1) % lines.length;
     }
