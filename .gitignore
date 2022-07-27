@@ -1,5 +1,6 @@
 bak
 *.bak
+*.swp
 tmp
 package-lock.json
 public/favicon.*
