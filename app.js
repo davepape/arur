@@ -64,6 +64,14 @@ app.get('/getdata', getData);
 
 require('./cycle.js');
 
+function cleanupLine(line)
+    {
+    let s = line.replace(/^[A-Z0-9]*\./,'');  /* remove name from front */
+    s = s.replace(/\(_[^)]*_\)/g,'');       /* remove parenthesized stage directions */
+    s = s.replace(/\[.*\]$/g,'');           /* remove line # from end */
+    return s;
+    }
+
 async function getState(req, response)
     {
     let collection = await getCollection();
@@ -72,6 +80,8 @@ async function getState(req, response)
         if (err) { response.send(err); }
         if (!result)
             result = { action: "in an unknown state", line: "" };
+        else
+            result.line = cleanupLine(result.line);
         response.send(JSON.stringify(result));
         });
     }

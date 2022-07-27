@@ -1,7 +1,6 @@
 DIRECTOR. ACT 1
 DOMIN. {ENTER}
 SULLA. {ENTER}
-*ACTORS: DOMIN, SULLA
 DOMIN. (_Dictating_) Ready?
 SULLA. Yes.
 DOMIN. To E. M. McVicker & Co., Southampton, England. “We undertake
@@ -26,7 +25,6 @@ DOMIN. (_Standing back of desk, punching plug machine and buttons_) Another
 DOMIN. letter. Freidrichswerks, Hamburg, Germany. “We beg to acknowledge
 DOMIN. receipt of order for fifteen thousand Robots.”
 MARIUS. {ENTER}
-*ACTORS: DOMIN, SULLA, MARIUS.
 DOMIN. Well, what is it?
 MARIUS. There’s a lady, sir, asking to see you.
 DOMIN. A lady? Who is she?
@@ -40,7 +38,6 @@ DOMIN. Fifteen thousand. Fifteen thousand.
 MARIUS. (_At door R._) Please step this way.
 HELENA. {ENTER}
 MARIUS. {EXIT}
-*ACTORS: DOMIN, SULLA, HELENA
 HELENA. (_Crossing to desk_) How do you do?
 DOMIN. How do you do? What can I do for you?
 HELENA. You are Mr. Domin, the General Manager?
@@ -50,7 +47,6 @@ DOMIN. With President Glory’s card. That is quite sufficient.
 HELENA. President Glory is my father. I am Helena Glory.
 DOMIN. Please sit down. Sulla, you may go.
 SULLA. {EXIT}
-*ACTORS: DOMIN, HELENA
 DOMIN. How can I be of service to you, Miss Glory?
 HELENA. I have come-- (_Sits R. of desk._)
 DOMIN. To have a look at our famous works where people are
@@ -258,25 +254,20 @@ DOMIN. (_HELENA looks in her pocket mirror. He pushes button on desk._)
 HELENA. Then they die?
 DOMIN. Yes, they get used up.
 MARIUS. {ENTER}
-*ACTORS: DOMIN, HELENA, MARIUS
 DOMIN. Marius, bring in samples of the manual labor Robot.
 MARIUS. {EXIT}
-*ACTORS: DOMIN, HELENA
 DOMIN. I’ll show you specimens of the two extremes. This first
 DOMIN. grade is comparatively inexpensive and is made in vast quantities.
 MARIUS. {ENTER}
 ROBOTS. {ENTER}
-*ACTORS: DOMIN, HELENA, MARIUS, ROBOTS
 DOMIN. There you are, as powerful as a small tractor. Guaranteed
 DOMIN. to have average intelligence. That will do, Marius.
 MARIUS. {EXIT}
 ROBOTS. {EXIT}
-*ACTORS: DOMIN, HELENA
 HELENA. They make me feel so strange.
 DOMIN. (_Crosses to desk. Rings_) Did you see my new typist?
 HELENA. I didn’t notice her.
 SULLA. {ENTER}
-*ACTORS: DOMIN, SULLA, HELENA
 DOMIN. Sulla, let Miss Glory see you.
 HELENA. (_Looks at DOMIN. Rising, crosses a step to C._) So pleased to
 HELENA. meet you. (_Looks at DOMIN_) You must find it terribly dull in this out
@@ -325,7 +316,6 @@ HELENA. It’s a lie!
 DOMIN. What? (_Pushes button on desk_) Well, then I must _convince_
 DOMIN. you.
 MARIUS. {ENTER}
-*ACTORS: DOMIN, SULLA, HELENA, MARIUS
 DOMIN. Marius, take Sulla into the dissecting room, and tell them to open her up at once.
 HELENA. Where?
 DOMIN. Into the dissecting room. When they’ve _cut her open_, you can
@@ -364,7 +354,6 @@ HELENA. Oh, stop. Please send them away.
 DOMIN. (_Pushes button_) Marius, Sulla, you may go.
 MARIUS. {EXIT}
 SULLA. {EXIT}
-*ACTORS: DOMIN, HELENA
 HELENA. How terrible! (_To C._) It’s outrageous what you are doing.
 HELENA. (_He takes her hand._)
 DOMIN. Why outrageous? (_His hand over hers. Laughing._)
@@ -409,7 +398,6 @@ GALL. {ENTER}
 FABRY. {ENTER}
 ALQUIST. {ENTER}
 HALLEMEIER. {ENTER}
-*ACTORS: DOMIN, HELENA, GALL, FABRY, ALQUIST, HALLEMEIER
 GALL. (_Noisily_) I beg your pardon. I hope we don’t intrude.
 DOMIN. No, no. Come in. Miss Glory, here are Gall, Fabry, Alquist,
 DOMIN. Hallemeier. This is President Glory’s daughter. (_ALL move to her and_)
@@ -419,7 +407,6 @@ FABRY. We had no idea--
 GALL. Highly honored, I’m sure--
 ALQUIST. Welcome, Miss Glory.
 BUSMAN. {ENTER}
-*ACTORS: DOMIN, HELENA, GALL, FABRY, ALQUIST, HALLEMEIER, BUSMAN
 BUSMAN. (_Rushes in from R._) Hello, what’s up?
 DOMIN. Come in, Busman. This is President Glory’s daughter. This is
 DOMIN. Busman, Miss Glory.
@@ -691,18 +678,14 @@ FABRY. For the League of Humanity, Miss Glory.
 HELENA. Oh, in that case perhaps--
 FABRY. That’s fine. (_Pause_) Miss Glory, excuse me for five minutes.
 FABRY. {EXIT}
-*ACTORS: DOMIN, HELENA, GALL, ALQUIST, HALLEMEIER, BUSMAN
 HALLEMEIER. Thank you.
 HALLEMEIER. {EXIT}
 GALL. {EXIT}
-*ACTORS: DOMIN, HELENA, ALQUIST, BUSMAN
 BUSMAN. (_Whispering_) I’ll be back soon.
 BUSMAN. {EXIT}
-*ACTORS: DOMIN, HELENA, ALQUIST
 ALQUIST. (_Starts, stops, then to HELENA, then to door_) I’ll be back
 ALQUIST. in exactly five minutes.
 ALQUIST. {EXIT}
-*ACTORS: DOMIN, HELENA
 HELENA. What have they all gone for?
 DOMIN. To cook, Miss Glory. (_On her L._)
 HELENA. To cook what?
@@ -782,7 +765,6 @@ GALL. {ENTER}
 HALLEMEIER. {ENTER}
 FABRY. {ENTER}
 ALQUIST. {ENTER}
-*ACTORS: DOMIN, HELENA, BUSMAN, GALL, HALLEMEIER, FABRY, ALQUIST
 DOMIN. Have you finished your job?
 BUSMAN. Yes.
 DOMIN. So have we. (_He embraces her. The MEN rush around them and offer congratulations._)
