@@ -5,7 +5,7 @@ let userData = { text: lines[0] }
 
 
 const { MongoClient, ServerApiVersion, ObjectID } = require('mongodb');
-const uri = "mongodb+srv://dave:swordfish@cluster0.qbbku6i.mongodb.net/?retryWrites=true&w=majority";
+const uri = "";
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 client.connect(startUpdate);
 
