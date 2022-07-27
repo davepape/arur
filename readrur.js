@@ -1,96 +1,102 @@
-const WebSocket = require('ws')
-const url = 'ws://arur.site:7081'
-const ws = new WebSocket(url)
-
-ws.onopen = () => {
-  console.log('open');
-}
-
-ws.onerror = (error) => {
-  console.log(`WebSocket error:`); console.log(JSON.stringify(error));
-}
-
-ws.onmessage = receiveMessage;
-
-
 const fs = require('fs');
+const { MongoClient, ServerApiVersion, ObjectID } = require('mongodb');
 
-let myName = 'DOMIN';
+const client = new MongoClient(process.env.ATLAS_URI, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+client.connect(main);
 
-let fulltext = fs.readFileSync('RUR.txt', 'utf-8');
-let lines = fulltext.split("\n");
-let myLines = [];
-let startingLine = true;
-let newLineInfo;
-let lastCue = lines[0];
-for (let i=1; i < lines.length; i++)
-    {
-    if (lines[i].startsWith(myName+'.'))
-        {
-        if (startingLine)
-            {
-            newLineInfo = { cue: lastCue, lines: [] };
-            myLines.push(newLineInfo);
-            startingLine = false;
-            }
-        newLineInfo.lines.push(lines[i]);
-        }
-    else
-        {
-        lastCue = lines[i];
-        startingLine = true;
-        }
-    }
 
+let myLines = readScript('DOMIN')
 let curLine = 0, curSubLine = 0;
 let sayingLine = false;
 
-setInterval(sayLine, 1000);
-
-function receiveMessage(msg)
+function main(err)
     {
-    let text = msg.data;
-    debugMessage(`heard ${text}`);
-    if (!sayingLine)
+    setInterval(update, 1000);
+    }
+
+
+async function update()
+    {
+    if (sayingLine)
+        sayNextLine();
+    else
+        checkForCue();
+    }
+
+async function sayNextLine()
+    {
+    let collection = await getCollection();
+    let query = { state: "all" };
+    let newval = { $set: { line: myLines[curLine].lines[curSubLine] } };
+    await collection.updateOne(query, newval);
+    debugMessage(`said ${myLines[curLine].lines[curSubLine]}`);
+    curSubLine++;
+    if (curSubLine == myLines[curLine].lines.length)
         {
-        if (text == myLines[curLine].cue)
-            {
-            sayingLine = true;
-            debugMessage(`that's my cue!`);
-            }
+        curLine = (curLine+1) % myLines.length;
+        curSubLine = 0;
+        sayingLine = false;
+        }
+    }
+
+async function checkForCue()
+    {
+    debugMessage(`waiting for ${myLines[curLine].cue}`);
+    let collection = await getCollection();
+    let query = { state: "all" };
+    let playState = await collection.findOne(query);
+    debugMessage(`heard ${playState.line}`);
+    if (playState.line == myLines[curLine].cue)
+        {
+        sayingLine = true;
+        debugMessage('heard cue');
         }
     }
 
 
-let saidWaiting = false;
-
-function sayLine()
+var _db;
+async function getCollection()
     {
-    if (sayingLine)
+    if (!_db)
         {
-        debugMessage(`saying ${myLines[curLine].lines[curSubLine]}`);
-        ws.send(myLines[curLine].lines[curSubLine]);
-        curSubLine++;
-        if (curSubLine == myLines[curLine].lines.length)
-            {
-            curLine = (curLine+1) % myLines.length;
-            curSubLine = 0;
-            sayingLine = false;
-            }
-        saidWaiting = false;
+        await client.connect();
+        _db = await client.db("arur");
         }
-    else
+    return _db.collection("arur");
+    }
+
+
+function readScript(myName)
+    {
+    let fulltext = fs.readFileSync('RUR.txt', 'utf-8');
+    let lines = fulltext.split("\n");
+    let myLines = [];
+    let startingLine = true;
+    let newLineInfo;
+    let lastCue = lines[0];
+    for (let i=1; i < lines.length; i++)
         {
-        if (!saidWaiting)
+        if (lines[i].startsWith(myName+'.'))
             {
-            debugMessage(`waiting for ${myLines[curLine].cue}`);
-            saidWaiting = true;
+            if (startingLine)
+                {
+                newLineInfo = { cue: lastCue, lines: [] };
+                myLines.push(newLineInfo);
+                startingLine = false;
+                }
+            newLineInfo.lines.push(lines[i]);
+            }
+        else
+            {
+            lastCue = lines[i];
+            startingLine = true;
             }
         }
+    return myLines;
     }
 
 
 function debugMessage(str)
     {
-//    console.log(str);
+    console.log(str);
     }
