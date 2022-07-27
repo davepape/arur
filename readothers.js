@@ -5,7 +5,7 @@ const client = new MongoClient(process.env.ATLAS_URI, { useNewUrlParser: true, u
 client.connect(main);
 
 
-let myLines = readScript('DOMIN')
+let myLines = readOppositeScript('DOMIN')
 let curLine = 0, curSubLine = 0;
 let sayingLine = false;
 
@@ -66,7 +66,7 @@ async function getCollection()
     }
 
 
-function readScript(myName)
+function readOppositeScript(otherName)
     {
     let fulltext = fs.readFileSync('RUR.txt', 'utf-8');
     let lines = fulltext.split("\n");
@@ -76,7 +76,7 @@ function readScript(myName)
     let lastCue = lines[0];
     for (let i=1; i < lines.length; i++)
         {
-        if (!lines[i].startsWith(myName+'.'))
+        if (!lines[i].startsWith(otherName+'.'))
             {
             if (startingLine)
                 {

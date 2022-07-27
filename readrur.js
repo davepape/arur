@@ -5,7 +5,8 @@ const client = new MongoClient(process.env.ATLAS_URI, { useNewUrlParser: true, u
 client.connect(main);
 
 
-let myLines = readScript('DOMIN')
+let myName = 'DOMIN';
+let myLines = readScript();
 let curLine = 0, curSubLine = 0;
 let sayingLine = false;
 
@@ -25,11 +26,13 @@ async function update()
 
 async function sayNextLine()
     {
+    let theLine = myLines[curLine].lines[curSubLine];
     let collection = await getCollection();
     let query = { state: "all" };
-    let newval = { $set: { line: myLines[curLine].lines[curSubLine] } };
+    let newval = { $set: { line: theLine } };
     await collection.updateOne(query, newval);
-    debugMessage(`said ${myLines[curLine].lines[curSubLine]}`);
+    setMyState("saying", theLine);
+    debugMessage(`said ${theLine}`);
     curSubLine++;
     if (curSubLine == myLines[curLine].lines.length)
         {
@@ -42,6 +45,7 @@ async function sayNextLine()
 async function checkForCue()
     {
     debugMessage(`waiting for ${myLines[curLine].cue}`);
+    setMyState("waiting for my next cue", "");
     let collection = await getCollection();
     let query = { state: "all" };
     let playState = await collection.findOne(query);
@@ -51,6 +55,15 @@ async function checkForCue()
         sayingLine = true;
         debugMessage('heard cue');
         }
+    }
+
+async function setMyState(myAction,theLine)
+    {
+    let collection = await getCollection();
+    let query = { state: myName };
+    let newval = { $set: { state: myName, action: myAction, line: theLine } };
+    const options = { upsert: true };
+    collection.updateOne(query, newval, options);
     }
 
 
@@ -66,7 +79,7 @@ async function getCollection()
     }
 
 
-function readScript(myName)
+function readScript()
     {
     let fulltext = fs.readFileSync('RUR.txt', 'utf-8');
     let lines = fulltext.split("\n");
