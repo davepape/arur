@@ -1,7 +1,8 @@
 const fs = require('fs');
 const { MongoClient, ServerApiVersion, ObjectID } = require('mongodb');
 
-const client = new MongoClient(process.env.ATLAS_URI, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+const uri = require('./atlasuri.js').uri;
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 client.connect(main);
 
 

@@ -7,15 +7,24 @@
 <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-
+let robots = ["DOMIN", "HELENA", "ALQUIST", "BUSMAN", "FABRY", "GALL", "HALLEMEIER", "HELENABOT", "MARIUS", "NANA", "PRIMUS", "RADIUS", "ROBOT1", "ROBOT2", "SULLA"];
 let lastHighlight = "";
 
 function receiveData(msg)
     {
     let d = JSON.parse(msg);
-    let text = d.text;
+    let text = d.line;
     $("#overlay").html(text);
+    robots.forEach(r => {
+        let el = document.querySelector(`#${r}`);
+        if (d.actors[r])
+            el.setAttribute("visible", "true");
+        else
+            el.setAttribute("visible", "false");
+        });
     let label = text.substring(0,text.indexOf("."));
+    if (text.indexOf("{EXIT}") > -1)
+        label = "";
     if (label != lastHighlight)
         {
         let el = document.querySelector(`#${label}highlight`);
@@ -56,75 +65,80 @@ Hello, world
 </div>
 <a-scene embedded arjs>
   <a-marker preset="kanji">
-    <a-entity position="0 0 0">
-        <a-circle id="DOMINhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="DOMIN" material="src: sprites/domin.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
-    </a-entity>
 
-    <a-entity position="0.7 0 0">
-        <a-circle id="ALQUISThighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="ALQUIST" material="src: sprites/alquist.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
-    </a-entity>
-
-    <a-entity position="1.4 0 0">
+    <a-entity position="-1 0 -2">
         <a-circle id="BUSMANhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="BUSMAN" material="src: sprites/busman.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
-
-    <a-entity position="2.1 0 0">
+    <a-entity position="0 0 -2">
         <a-circle id="FABRYhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="FABRY" material="src: sprites/fabry.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
-
-    <a-entity position="2.8 0 0">
+    <a-entity position="1 0 -2">
         <a-circle id="GALLhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="GALL" material="src: sprites/gall.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
-
-    <a-entity position="3.5 0 0">
+    <a-entity position="2 0 -2">
         <a-circle id="HALLEMEIERhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="HALLEMEIER" material="src: sprites/hallemeier.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
 
-    <a-entity position="4.2 0 0">
-        <a-circle id="HELENAhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="HELENA" material="src: sprites/helena.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
-    </a-entity>
 
-    <a-entity position="-0.7 0 0">
+
+    <a-entity position="-1 0 -1">
+        <a-circle id="PRIMUShighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="PRIMUS" material="src: sprites/primus.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
+    <a-entity position="0 0 -1">
         <a-circle id="HELENABOThighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="HELENABOT" material="src: sprites/helenabot.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
+    <a-entity position="1 0 -1">
+        <a-circle id="NANAhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="NANA" material="src: sprites/nana.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
 
-    <a-entity position="-1.4 0 0">
+
+
+    <a-entity position="-1 0 0">
+        <a-circle id="ALQUISThighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="ALQUIST" material="src: sprites/alquist.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
+    <a-entity position="0 0 0">
+        <a-circle id="HELENAhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="HELENA" material="src: sprites/helena.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
+    <a-entity position="1 0 0">
+        <a-circle id="DOMINhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="DOMIN" material="src: sprites/domin.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
+    <a-entity position="2 0 0">
+        <a-circle id="SULLAhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="SULLA" material="src: sprites/sulla.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    </a-entity>
+
+
+
+    <a-entity position="-1 0 1">
         <a-circle id="MARIUShighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="MARIUS" material="src: sprites/marius.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
 
-    <a-entity position="-2.1 0 0">
-        <a-circle id="PRIMUShighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="PRIMUS" material="src: sprites/primus.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
-    </a-entity>
-
-    <a-entity position="-2.8 0 0">
-        <a-circle id="RADIUShighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="RADIUS" material="src: sprites/radius.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
-    </a-entity>
-
-    <a-entity position="-3.5 0 0">
+    <a-entity position="0 0 1">
         <a-circle id="ROBOT1highlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="ROBOT1" material="src: sprites/robot1.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
 
-    <a-entity position="-4.2 0 0">
+    <a-entity position="1 0 1">
         <a-circle id="ROBOT2highlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
         <a-entity id="ROBOT2" material="src: sprites/robot2.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
 
-    <a-entity position="-4.9 0 0">
-        <a-circle id="SULLAhighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
-        <a-entity id="SULLA" material="src: sprites/sulla.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
+    <a-entity position="2 0 1">
+        <a-circle id="RADIUShighlight" color="#ff0" radius=".3" rotation="-90 0 0" position="0 0 0" visible="false"></a-circle>
+        <a-entity id="RADIUS" material="src: sprites/radius.png; shader: flat; color: #fff; transparent: true" geometry="primitive: plane" position="0 0.5 0" rotation="0 0 0" scale="1 1 1" ></a-entity>
     </a-entity>
+
   </a-marker>
   <a-entity camera></a-entity>
 </a-scene>
