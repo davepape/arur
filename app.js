@@ -1,23 +1,29 @@
 const fs = require('fs');
-let lines = fs.readFileSync('RUR.txt', 'utf-8').split("\n");
-let curLine = 1;
-let userData = { text: lines[0] }
+let scriptLines = fs.readFileSync('RUR.txt', 'utf-8').split("\n");
+while (scriptLines[scriptLines.length-1] == '')
+    scriptLines.pop()
+let userData = { text: scriptLines[0] }
 
 
 const { MongoClient, ServerApiVersion, ObjectID } = require('mongodb');
-const uri = "";
+const uri = process.env.ATLAS_URI;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 client.connect(startUpdate);
 
 async function startUpdate(err)
     {
     if (err) throw err;
-    let collection = await getCollection();
-    let query = { state: "all" };
-    let newval = { $set: { line: lines[0] } };
-    await collection.updateOne(query, newval);
-    setInterval(update, 1000);
+    setInterval(update, 500);
     }
+
+function restartPlay()
+    {
+    sayLine(0);
+    }
+
+let restarted = false;
+
+let lastLineNum = getLineNumber(scriptLines[scriptLines.length-1]);
 
 async function update()
     {
@@ -25,6 +31,60 @@ async function update()
     let query = { state: "all" };
     let playState = await collection.findOne(query);
     userData.text = playState.line;
+    let lineNum = getLineNumber(playState.line);
+    if (lineNum == lastLineNum)
+        {
+        if (!restarted)
+            {
+            setTimeout(restartPlay, 8000);
+            restarted = true;
+            }
+        }
+/*
+    else
+        checkPrompt(lineNum);
+*/
+    }
+
+
+let lastCheckedLine = 0;
+let missedCount = 0;
+
+async function checkPrompt(lineNum)
+    {
+    if ((lineNum != 0) && (lineNum == lastCheckedLine))
+        {
+        missedCount++;
+        if (missedCount > 8)
+            {
+            missedCount = 0;
+            lastCheckedLine = (lastCheckedLine + 1) % scriptLines.length;
+            sayLine(lastCheckedLine);
+            }
+        }
+    else
+        {
+        lastCheckedLine = lineNum;
+        missedCount = 0;
+        }
+    }
+
+async function sayLine(lineNum)
+    {
+    let collection = await getCollection();
+    let query = { state: "all" };
+    let newval = { $set: { line: scriptLines[lineNum] } };
+    await collection.updateOne(query, newval);
+    debugMessage(`prompted ${scriptLines[lineNum]}`);
+    }
+
+function getLineNumber(line)
+    {
+    let start = line.indexOf('[');
+    let end = line.indexOf(']');
+    if ((start == -1) || (end == -1)) return 0;
+    let s = line.substr(start+1,end-start-1);
+    return +s;
     }
 
 let _db;
@@ -40,29 +100,30 @@ async function getCollection()
 
 
 
-function getData(req, res) {
-    let sendData = {};
-    sendData.text = userData.text.substr(0,userData.text.indexOf('['))
-    let str = JSON.stringify(sendData);
-    res.send(str);
-    }
-
 const express = require('express');
 let app = express();
 
-app.use(function (req,res,next) {
+app.use(function (req,res,next)
+    {
     res.set('Cache-Control','no-store');
-    res.setHeader('Access-Control-Allow-Origin', req.headers.origin);
+    if ((req.headers) && (req.headers.origin))
+        res.setHeader('Access-Control-Allow-Origin', req.headers.origin);
     next();
     });
 const path = require('path');
 app.use(express.static(path.join(__dirname, 'public')));
 
 
+function getData(req, res)
+    {
+    let sendData = {};
+    sendData.text = userData.text.substr(0,userData.text.indexOf('['))
+    let str = JSON.stringify(sendData);
+    res.send(str);
+    }
+
 app.get('/getdata', getData);
 
-
-require('./cycle.js');
 
 function cleanupLine(line)
     {
@@ -87,7 +148,11 @@ async function getState(req, response)
     }
 app.get('/getstate/:name', getState);
 
-
-
+app.get('/restart', function (req,res) { restartPlay(); res.send("restarted"); });
 
 let server = app.listen(8000, function () { console.log('server started');});
+
+function debugMessage(str)
+    {
+    console.log(str);
+    }
