@@ -4,11 +4,11 @@ const { MongoClient, ServerApiVersion, ObjectID } = require('mongodb');
 const client = new MongoClient(process.env.ATLAS_URI, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 client.connect(main);
 
-
-let myName = 'DOMIN';
+let myName = (process.argv.length > 2) ? process.argv[2] : 'DOMIN';
+let debugMode = (process.argv.length > 3) ? process.argv[3] : false;
 let myLines = readScript();
-let curLine = 0, curSubLine = 0;
-let sayingLine = false;
+let curLine = 0;
+let state = 'waiting';  // 'waiting', 'starting', or 'saying'
 
 function main(err)
     {
@@ -18,28 +18,11 @@ function main(err)
 
 async function update()
     {
-    if (sayingLine)
-        sayNextLine();
-    else
+    if (state == 'waiting')
         checkForCue();
-    }
-
-async function sayNextLine()
-    {
-    let theLine = myLines[curLine].lines[curSubLine];
-    let collection = await getCollection();
-    let query = { state: "all" };
-    let newval = { $set: { line: theLine } };
-    await collection.updateOne(query, newval);
-    setMyState("saying", theLine);
-    debugMessage(`said ${theLine}`);
-    curSubLine++;
-    if (curSubLine == myLines[curLine].lines.length)
-        {
-        curLine = (curLine+1) % myLines.length;
-        curSubLine = 0;
-        sayingLine = false;
-        }
+    else if (state == 'starting')
+        sayNextLine([...myLines[curLine].lines]);
+/*  else pass; */
     }
 
 async function checkForCue()
@@ -52,8 +35,29 @@ async function checkForCue()
     debugMessage(`heard ${playState.line}`);
     if (playState.line == myLines[curLine].cue)
         {
-        sayingLine = true;
+        state = 'starting';
         debugMessage('heard cue');
+        }
+    }
+
+async function sayNextLine(phrases)
+    {
+    state = 'saying';
+    let phrase = phrases.shift();
+    let collection = await getCollection();
+    let query = { state: "all" };
+    let newval = { $set: { line: phrase } };
+    await collection.updateOne(query, newval);
+    setMyState("saying", phrase);
+    debugMessage(`said ${phrase}`);
+    if (phrases.length > 0)
+        {
+        setTimeout(()=>{sayNextLine(phrases);}, 1000);
+        }
+    else
+        {
+        curLine = (curLine+1) % myLines.length;
+        state = 'waiting';
         }
     }
 
@@ -67,15 +71,15 @@ async function setMyState(myAction,theLine)
     }
 
 
-var _db;
+let _collection;
 async function getCollection()
     {
-    if (!_db)
+    if (!_collection)
         {
         await client.connect();
-        _db = await client.db("arur");
+        _collection = await client.db("arur").collection("arur");
         }
-    return _db.collection("arur");
+    return _collection;
     }
 
 
@@ -112,5 +116,5 @@ function readScript()
 
 function debugMessage(str)
     {
-    console.log(str);
+    if (debugMode) console.log(str);
     }

@@ -1,0 +1,3 @@
+foreach i (ALQUIST BUSMAN FABRY GALL HALLEMEIER HELENA HELENABOT MARIUS NANA PRIMUS RADIUS ROBOT1 ROBOT2 SULLA DIRECTOR)
+    nodemon readrur.js $i 1 >&! logs/$i.log < /dev/null &
+end
